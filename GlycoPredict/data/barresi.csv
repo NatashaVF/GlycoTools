@@ -1,0 +1,683 @@
+,Entry,Ref,Linkage formed,"Acceptor
+size",(eq .),"Donor
+size",(eq .).1,"Yield
+(%)",a : B,"Glycosyl
+Donor","Neighbouring
+group",Activator,Solvent,temperature_C,donor_type,acceptor_type,solvent_smiles,donor_conf,lg,C2_smiles,activator,Major True,Minor True,Conf positive(%) True
+0,108,72,Gal (1-3) rHA,2,1,1,1.5,74,1:1,SEt,OBn,MeOTf,Et2O,,pyranose,O,['CCOCC'],"[0, -1, 1, 1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,,1,50.0
+1,207,143,Glc (1-2) Xyl,1,1,1,3,76,1:1,chloride,OCOCCI3,"AgOTf,MDTBP",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,O=C(OCC(Cl)(Cl)Cl)O[*],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,,1,50.0
+2,294,151,Glc (1 → 6) Gal,1,1.2,1,1,52,1:1,sulfonamide,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",[O-]S(=O)(O[*])=O.C[NH+](C)C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,,1,50.0
+3,295,151,Glc (1 → 6) Gal,1,1.2,1,1,67,1:1,sulfonamide,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",[O-]S(=O)(O[*])=O.C[NH+](C)C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,,1,50.0
+4,304,172,Glc (16) Gal,1,1,1,1,82,1:1,tetrazol,OBn,TMSOTf,Et2O,-78,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,,1,50.0
+5,305,172,Glc (1-6) Gal,1,1,1,1,82,1:1,tetrazol,OBn,AgOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],,1,50.0
+6,394,22,Glc [ 5S ] (1 → 4) Glc,1,2,1,1,90,1:1,imidate,OAc,TESOTf,,-78,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,,1,50.0
+7,600,172,Man (16) Gal,1,1,1,1,63,1:1,tetrazol,OBn,PdCl2,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Pd]Cl,,1,50.0
+8,309,172,Glc (16) Gal,1,1,1,1,86,1:1.7,tetrazol,OBn,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,62.962962962963000
+9,511,19,GlcNAc (16) GlcNAc,1,(NR),1,(NR),NR,1:2,imidate,N3,AgOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,66.66666666666670
+10,547,76,KDO (26) GlcNAc,2,1,1,5.7,86,1.2:1,bromide,H,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,1,45.45454545454550
+11,597,172,Man (1-6) Gal,1,1,1,1,92,1.2:1,tetrazol,OBn,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,45.45454545454550
+12,91,146,Gal (1-3) Glc,1,1,1,1.3,82,1:2.3,chloride,OPiv,"AgOTf,collidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,[*]OC(C(C)(C)C)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,1,69.69696969696970
+13,62,171,Gal (1-3) GlcNAc,1,1,1,1.3,87,1:3,bromide,OAc,Hg(CN)2,"toluene,nitromethane",40,pyranose,O,"['Cc1ccccc1', 'C[N+](=O)[O-]  ']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,1,75.0
+14,209,50,Glc (1-2 / 3) All,1,0.9,1,1,94,1:3,imidate,OBn,BF3-OEt2,DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,75.0
+15,300,172,Glc (1-6) Gal,1,1,1,1,69,1:3,tetrazol,OBn,BF3-OEt2,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,75.0
+16,301,172,Glc (1-6) Gal,1,1,1,1,70,1:3,tetrazol,OBn,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,75.0
+18,141,122,Gal (14) iDOA,2,(NR),2,(NR),59,1:4,imidate,OAc,TMSOTf,,,pyranose,O,,"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,80.0
+19,299,172,Glc (16) Gal,1,1,1,1,49,1:4,tetrazol,OBn,BF3-OEt2,THF,-20,pyranose,O,['C1CCOC1 '],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,80.0
+20,308,172,Glc (16) Gal,1,1,1,1,58,1.4:1,tetrazol,OBn,TSA,DCM,39.6,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=CC=C(C=C1)S(=O)(=O)O,-1,1,41.66666666666670
+21,605,161,Man (1-6) Glc,1,1,2,1.9,43,1.4:1,chloride,OSugar,"HgBr2,Hg(CN)2",nitromethane,0,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, 1, -1, 1]",*Cl,[*]OC1C(O)C(O)C(O)C(O)O1,Br[Hg]Br.C(#N)[Hg]C#N ,-1,1,41.66666666666670
+22,303,172,Glc (16) Gal,1,1,1,1,98,1.5:1,tetrazol,OBn,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,40.0
+23,307,172,Glc (16) Gal,1,1,1,1,75,1.5:1,tetrazol,OBn,TSA,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=CC=C(C=C1)S(=O)(=O)O,-1,1,40.0
+24,397,160,Glc [ SS ] (1 → 6) Glc,1,1,1,1.3,80,1.5:1,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,40.0
+25,177,125,GalNAc (1-4) Gal,3,1,1,5,91,1:5.5,xanthate,N3,PhSeOTf,EtCN,-78,pyranose,O,['CCC#N '],"[0, -1, 1, 1, 1]",[*]SC(SCC)=S,*N=[N+]=[N-],C1=CC=C(C=C1)[Se]OS(=O)(=O)C(F)(F)F,1,1,84.61538461538460
+26,69,143,Gal (1-2) Xyl,1,1,1,2,53,1:6,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,85.71428571428570
+27,320,149,Glc (16) Glc,2,1,1,1.2,79,1:7,bromide,OAc,Hg(CN)2,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,1,87.5
+28,297,155,Glc (1-6) Gal,1,1,2,1,25,1:7.3,n-pentenyl,OBn,"NIS,TESOTf",,,pyranose,O,,"[0, -1, 1, -1, 1]",[*]OCCCC=C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,1,1,87.95180722891570
+29,164,65,GalNAc (1 → 3) Gal,1,1,1,1.5,79,1:8,chloride,NPhth,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,1,88.88888888888890
+30,253,182,Glc (1-4) Glc,2,2.1,2,1,58,1.8:1,bromide,OSugar,"AgO,I2",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,[*]OC1C(O)C(O)C(O)C(O)O1,O=[Ag].II  ,-1,1,35.714285714285700
+31,80,179,Gal (1-3) Gal,1,1,1,1.1,83,1:9,SEt,OPMB,IDCP,"Et2O,DCE",-60,pyranose,O,"['CCOCC', 'C(CCl)Cl ']","[0, -1, 1, 1, 1]",[*]SCC,[*]OCC1=CC=C(OC)C=C1,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],1,1,90.0
+32,213,49,Glc (1-2 / 3) Man,1,1,1,1.1,91,1:9,imidate,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,90.0
+33,205,174,Glc (1 → 2) Man,2,1,1,2,69,1.9:1,bromide,OBn,"AgOTf,TMU",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,1,34.48275862068970
+34,348,172,Glc (1-6) Glc,1,1,1,1,79,1:13,tetrazol,OBn,TMSOTf,MeCN,-20,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,92.85714285714290
+35,345,18,Glc (1-6) Glc,1,(NR),1,(NR),76,1:20,vinyl ether,OBn,TMSOTf,MeCN,-25,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]O/C(C)=C/C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,95.23809523809520
+39,223,49,Glc (1-3) Gal,1,1,1,1.4,75,2:1,bromide,OBn,TBABr,,,pyranose,O,,"[0, -1, 1, -1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,1,33.33333333333330
+40,306,172,Glc (16) Gal,1,1,1,1,54,2:1,tetrazol,OBn,TSA,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=CC=C(C=C1)S(=O)(=O)O,-1,1,33.33333333333330
+41,310,172,Glc (1-6) Gal,1,1,1,1,73,2:1,tetrazol,OBn,TSA,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=CC=C(C=C1)S(=O)(=O)O,-1,1,33.33333333333330
+42,663,40,Neu5Ac (2-6) Gal,2,1,1,1.7,90,2:1,SMe,H,"NIS,TfOH",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,1,66.66666666666670
+43,632,152,Neu5Ac (16) Gal,1,(NR),1,(NR),49,2.2:1,xanthate,H,"CH3SBr,AgOTf","MeCN,DCM",,pyranose,O,"['CC#N', 'CC(Cl)Cl']","[0, 0, -1, 1, -1]",[*]SC(SCC)=S,*[H],CSBr  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,68.75
+44,657,152,Neu5Ac (2-3) GalNAc,1,(NR),1,(NR),49,2.2:1,SMe,H,DMTST,MeCN,,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,1,68.75
+45,249,49,Glc (1-3 / 4) Gal 1,1,1,1,1.1,86,2:3,imidate,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,60.0
+46,599,172,Man (1 → 6) Gal,1,1,1,1,97,2.4:1,tetrazol,OBn,AgOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,1,29.411764705882400
+49,170,66,GalNAc (1 → 3) GalNAc,2,1,1,2,55,2.7:1,bromide,N3,"AgOTf,TMU",toluene,-10,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, 1, 1]",*Br,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,1,27.027027027027000
+50,598,172,Man (16) Gal,1,1,1,1,92,2.9:1,tetrazol,OBn,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,25.641025641025600
+51,49,2,fUC (1-4) Glc,2,(NR),1,(NR),(NR),3:1,fluoride,OBn,"SnCl2,AgClO4,DTBP",Et2O,20,pyranose,O,['CCOCC'],"[0, 1, -1, -1, -1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,1,75.0
+52,596,172,Man (16) Gal,1,1,1,1,88,3:1,tetrazol,OBn,TMSOTf,MeCN,-20,pyranose,O,['CC#N'],"[0, 1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,25.0
+53,665,23,Neu5Ac (2 → 6) Gal - hep,1,1,1,1.25,46,3:1,xanthate,H,"MSB,AgOTf",MeCN,-50,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC(SCC)=S,*[H],CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,75.0
+54,666,23,Neu5Ac (2 → 6) Gal - hep,1,1,1,1.9,~ 60,3:1,SMe,H,"MSB,AgOTf",MeCN,-50,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,75.0
+55,674,3,Neu5Ac (2-6) Glc,1,(NR),1,(NR),61,3:1,SMe,H,DMTST,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,1,75.0
+56,712,43,Rib [ 2d ] (1-4) Glc,1,NR,1,(NR),97,3:1,trichloro ethyl phosphite,H,Sn(OTf)2,Et2O,20,pyranose,O,['CCOCC'],"[0, 0, -1, -1, 0]",[*]OP(OCC(Cl)(Cl)Cl)OCC(Cl)(Cl)Cl,*[H],C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,-1,1,25.0
+57,259,54,Glc (1-4) Glc,1,1.1,1,1,28,3:2,Me2P=S,OBn,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,1,40.0
+58,363,7,Glc (1-6) Glc,1,1,1,2,80,3:2,SPyr,OBn,"Pd,AgOTf",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC1=NC=CC=C1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Pd]  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,1,40.0
+59,713,43,Rib [ 2d ] (1 → 4) Rib [ 2d ],1,NR,1,(NR),38,3:2,trichloro ethyl phosphite,H,BF3-OEt2,"DCM,hexane",20,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, 0, -1, -1, 0]",[*]OP(OCC(Cl)(Cl)Cl)OCC(Cl)(Cl)Cl,*[H],CCO(CC).[B-](F)(F)F,-1,1,40.0
+60,388,160,Glc [ 5S ] (1 → 2) Glc,1,1.3,1,1,90,3.5:1,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,22.22222222222220
+61,25,5,fUC (1-2) Gal,3,1,1,10,72,4:1,SMe,OBn,"TBABr,CuBr2,AgOTf",,,pyranose,O,,"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] .[Cu](Br)Br .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,80.0
+62,116,65,Gal (1-4) Gal,2,1,1,1.3,92,4:1,chloride,OBn,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,1,20.0
+63,162,39,GalNAc (1 → 3) Gal,2,1,1,2.5,64,4:1,bromide,N3,"AgOTf,collidine","toluene,THF,dioxane",-10,pyranose,O,"['Cc1ccccc1', 'C1CCOC1 ', 'O1CCOCC1']","[0, -1, 1, 1, 1]",*Br,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,1,20.0
+64,168,39,GalNAc (13) Gal,2,1,1,2.5,25,4:1,STol,N3,DMTSB,,,pyranose,O,,"[0, -1, 1, 1, 1]",[*]SC1=CC=C(C)C=C1,*N=[N+]=[N-],[B-](F)(F)(F)F.CS[S+](C)C ,-1,1,20.0
+65,226,151,Glc (13) Glc,1,1.2,1,1,19,4: 1,sulfonamide,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",[O-]S(=O)(O[*])=O.C[NH+](C)C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,1,20.0
+66,227,151,Glc (13) Glc,1,1.2,1,1,48,4:1,sulfonamide,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",[O-]S(=O)(O[*])=O.C[NH+](C)C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,20.0
+67,402,42,GlcNAc (1 → 2) fUCNAc,1,1,1,1.4,21,4:1,SePh,N3,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, 1, -1, 1]",[*][Se]C1=CC=CC=C1,*N=[N+]=[N-],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,1,20.0
+68,413,42,GlcNAc (13) fUCNAc,1,1,1,1,40,4:1,imidate,N3,TMSOTf,"DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,20.0
+69,414,42,GlcNAc (1-3) fUCNAc,2,1,1,1.6,26,4:1,SEt,N3,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, 1, -1, 1]",[*]SCC,*N=[N+]=[N-],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,1,20.0
+70,540,112,KDO (2-4) KDO,1,1,2,2,23,4:1,bromide,H,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,1,20.0
+71,545,112,KDO (2-4) KDO,1,1,1,5,61,4:1,bromide,H,"Hg(CN)2,HgBr2",nitromethane,20,pyranose,O,['C[N+](=O)[O-]  '],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,1,20.0
+72,633,152,Neu5Ac (16) Gal,1,1,1,2,71,4:1,xanthate,H,"CH3SBr,AgOTf","MeCN,DCM",,pyranose,O,"['CC#N', 'CC(Cl)Cl']","[0, 0, -1, 1, -1]",[*]SC(SCC)=S,*[H],CSBr  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,80.0
+73,350,172,Glc (1-6) Glc,1,1,I,1,61,4.2:1,tetrazol,OBn,TMSOTf,Et2O,0,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,19.23076923076920
+74,60,184,fUC (1-6) GlcNAc,4,1,1,1.5,49,5:1,SEt,OBn,IDCP,"DCE,Et2O",20,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, 1, -1, -1, -1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],1,1,83.33333333333330
+75,115,65,Gal (1-4) Gal,1,1,1,1.3,92,5:1,chloride,OBn,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,1,16.666666666666700
+76,208,50,Glc (1-2 / 3) All,1,0.9,1,1,90,5:1,imidate,OBn,BF3-OEt2,DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,1,16.666666666666700
+77,641,30,Neu5 Ac (2 → 3) Gal,2,(NR),1,(NR),27,5:1,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,83.33333333333330
+78,206,95,Glc (1-2) Xyl,1,1,1,1.9,33,5:6,bromide,OAc,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,1,1,54.54545454545450
+79,48,178,fUC (14) Deoxy Nojira,3,1,1,1.5,89,6:1,SMe,OBn,DMTST,Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,1,85.71428571428570
+80,312,172,Glc (16) Gal,1,1,1,1,97,6:1,tetrazol,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,14.285714285714300
+81,351,172,Glc (1-6) Glc,1,2,| 1,1,73,6:1,tetrazol,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,14.285714285714300
+82,653,125,Neu5Ac (2-3) Gal,2,2,1,1,49,6:1,SMe,H,PhSeOTf,EtCN,20,pyranose,O,['CCC#N '],"[0, 0, -1, 1, -1]",[*]SC,*[H],C1=CC=C(C=C1)[Se]OS(=O)(=O)C(F)(F)F,1,1,85.71428571428570
+83,659,30,Neu5 Ac (2-3) GlcNAc,2,1,1,1.2,44,6:1,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,85.71428571428570
+84,672,30,Neu5Ac (2 → 6) Glc,1,(NR),1,(NR),80,6:1,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,85.71428571428570
+85,658,152,Neu5Ac (2 → 3) GalNAc,1,(NR),1,(NR),61,6.7:1,SMe,H,"CH3SBr,AgOTf","MeCN,DCM",,pyranose,O,"['CC#N', 'CC(Cl)Cl']","[0, 0, -1, 1, -1]",[*]SC,*[H],CSBr  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,87.01298701298700
+86,264,54,Glc (1-4) Glc,1,1.15,1,1,88,6:31,Me2P=S,OBn,"ZnCl2,AgClO4",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Zn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],1,1,83.78378378378380
+87,311,172,Glc (16) Gal,1,1,1,1,67,7:1,tetrazol,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,12.5
+88,349,172,Glc (1-6) Glc,1,1,1,1,66,7:1,tetrazol,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,12.5
+89,667,23,Neu5Ac (2-6) Gal - hep,1,1,1,1.9,~ 60,7:2,SMe,H,"MSB,AgOTf",MeCN,-50,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,77.77777777777780
+90,254,2,Glc (1-4) Glc,1,(NR),1,(NR),73,8:1,fluoride,OBn,"SnCl2,AgClO4,DTBP",Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,-1,1,11.11111111111110
+92,322,10,Glc (1-6) Glc,1,1,1,1.5,65,9:1,fluoride,OBn,"SnCl2,AgClO4",Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,1,10.0
+93,390,160,Glc [ 5S ] (1 → 2) Glc,1,2,1,1,80,9:1,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,10.0
+94,398,72,GlcA (1-3) Gal,3,1,1,2.4,40,9:1,chloride,OBn,HgBr2,DCE,,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Br[Hg]Br,-1,1,10.0
+95,640,35,Neu5 Ac (2-3) Gal,2,1.5,1,1,40,9:1,xanthate,H,"MSB,AgOTf","MeCN,DCM",-60,pyranose,O,"['CC#N', 'CC(Cl)Cl']","[0, 0, -1, 1, -1]",[*]SC(SCC)=S,*[H],CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,90.0
+96,144,84,Gal (1-4) iDOA,1,(NR),1,(NR),41,9:2,SEt,OBz,"NIS,TfOH",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,1,18.181818181818200
+97,169,66,GalNAc (1-3) GalNAc,1,1,1,2,71,9:2,bromide,N3,AgOTf,toluene,-10,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, 1, 1]",*Br,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,1,18.181818181818200
+98,260,54,Glc (1-4) Glc,1,1.15,1,1,43,9:11,Me2P=S,OBn,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,1,55.00000000000000
+99,165,65,GalNAc (1-3) Gal,2,1,1,1.5,78,8:92,chloride,NPhth,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,1,92.0
+100,43,30,fUC (1 + 3) GlcNAc,1,1,1,1,53,10:1,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,90.9090909090909
+101,203,73,Glc (1 → 2) Glc,1,1,1,1,95,10: 1,bromide,OBn,Hg(CN)2,MeCN,20,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(#N)[Hg]C#N ,-1,1,9.090909090909090
+102,239,49,Glc (1 → 3) Man,1,1,1,1.4,80,10:1,bromide,OBn,TBABr,,,pyranose,O,,"[0, -1, 1, -1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,1,9.090909090909090
+103,389,160,Glc [ 5S ] (1 →→ 2) Glc,1,1,1,1.2,40,10:1,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,9.090909090909090
+104,367,57,Glc (1 → 6) Glc,1,1,1,1.3,100,10:90,SMe,OBn,"PhSeNPhth,TMSOTf",toluene,-45,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,90.0
+106,81,106,Gal (1-3) GalNAc,1,1,1,1.5,58,13:1,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,-1,1,7.142857142857140
+107,94,146,Gal (1-3) Glc,1,1,I,1,33,12:68,fluoride,OBz,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*F,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,1,85.0
+108,365,7,Glc (1 → 6) Glc,1,1,1,2,88,13:87,SPyr,OBn,"Pd,AgOTf","DCM,MeCN",0,pyranose,O,"['CC(Cl)Cl', 'CC#N']","[0, -1, 1, -1, 1]",[*]SC1=NC=CC=C1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Pd]  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,87.0
+109,166,65,GalNAc (1-3) Gal,3,1,1,1.5,35,15:85,chloride,NPhth,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,1,85.0
+110,95,146,Gal (1-3) Glc,1,1,1,1.1,80,20:80,imidate,OBz,TMSOTf,MeCN,-20,pyranose,O,['CC#N'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,80.0
+111,368,57,Glc (16) Glc,1,1,1,1.3,91,21:79,SMe,OBn,"PhSeNPhth,TMSOTf",DCM,-45,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,79.0
+112,585,63,Man (1-4) GlcNAc,1,1,1,1,45,22:78,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,1,1,78.0
+113,709,63,rHA (1 → 6) Glc,1,NR,1,(NR),52,23:77,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, -1, 1, -1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,-1,1,23.0
+114,267,5,Glc (1-4) Glc,5,1,--,,37,27:10,SMe,OBn,MeOTf,THF,20,pyranose,O,['C1CCOC1 '],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,-1,1,27.027027027027000
+115,200,156,Glc (11) gLU,1,1,1,1.1,49,35:14,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,28.57142857142860
+117,272,57,Glc (1-4) Glc,1,1,1,1.3,94,41:59,SMe,OBn,"PhSeNPhth,TMSOTf",DCM,-45,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,59.0
+118,268,7,Glc (1-4) Glc,1,1,1,2,93,42:58,SPyr,OBn,"Pd,AgOTf","DCM,MeCN",0,pyranose,O,"['CC(Cl)Cl', 'CC#N']","[0, -1, 1, -1, 1]",[*]SC1=NC=CC=C1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Pd]  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,1,58.00000000000000
+119,610,63,Man (1-6) Glc,1,1,1,1,44,43:57,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,1,1,57.00000000000000
+120,269,57,Glc (1-4) Glc,1,1,1,1.1,89,45:55,SMe,OBn,"PhSeNPhth,TMSOTf",toluene,20,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,55.00000000000000
+121,708,63,rHA (1 → 6) Glc,1,1,1,1,50,45:55,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, -1, 1, -1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,-1,1,45.0
+122,395,2,Glc [ 5S ] (1 → 4) Glc [ 4Se ],1,2,1,1,57,46:11,imidate,OAc,TESOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,19.298245614035100
+123,266,5,Glc (1-4) Glc,W 3,1,2,1.25,61,49:12,SMe,OBn,MeOTf,THF,20,pyranose,O,['C1CCOC1 '],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,-1,1,19.672131147541000
+124,396,22,Glc [ 5S ] (1 → 4) Glc [ 4S ],1,2,1,1,55,53:2,imidate,OAc,TESOTf,,-78,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,1,3.6363636363636400
+125,704,63,rHA (16) Gal,1,1,1,1,81,53:47,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, -1, 1, -1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,1,1,53.0
+126,271,57,Glc (1-4) Glc,1,1,1,1.3,99,54:46,SMe,OBn,"PhSeNPhth,TMSOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,46.0
+127,339,64,Glc (1 → 6) Glc,2,1,2,1,65,55:10,fluoride,OBn,"SnCl2,AgClO4","DCM,Et2O",-15,pyranose,O,"['CC(Cl)Cl', 'CCOCC']","[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,1,15.384615384615400
+128,196,156,Glc (11) Gal,1,1,1,1.1,90,55:45,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,45.0
+129,734,108,Xyl [ 4d ] (1 → 4) Gal,2,1,1,1.2,64,57:7,fluoride,OBn,"SnCl2,AgClO4",,,pyranose,O,,"[0, -1, 1, 0, 0]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],1,1,89.0625
+130,24,132,fUC (1-2) Gal,2,1,1,1.1,78,58:14,imidate,OBn,ZnCl2-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.CCO(CC),1,1,80.55555555555560
+131,278,176,Glc (1-4) GlcA,4,1,1,1.8,74,64:10,imidate,OCH3,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,13.513513513513500
+132,364,7,Glc (1 → 6) Glc,1,1,1,2,93,65:35,SPyr,OBn,"Pd,AgOTf",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC1=NC=CC=C1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Pd]  .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,1,35.0
+133,262,54,Glc (1-4) Glc,1,0.5,1,1,100,66:34,Me2P=S,OBn,"ZnCl2,AgClO4",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Zn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,1,34.0
+134,263,54,Glc (1-4) Glc,1,0.5,1,1,86,66:34,Me2P=S,OBn,"ZnCl2,AgClO4",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Zn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,1,34.0
+135,327,38,Glc (16) Glc,1,1,1,1.1,67,66:34,fluoride,OBn,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,1,34.0
+136,341,64,Glc (16) Glc,2,1.2,2,1,88,67:21,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,23.863636363636400
+137,261,54,Glc (1-4) Glc,1,1.15,1,1,81,68:32,Me2P=S,OBn,"ZnCl2,AgClO4",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Zn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,1,32.0
+138,703,63,rHA (1-4) rHA,1,1,1,1,46,69:31,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, -1, 1, -1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,1,1,69.0
+139,328,38,Glc (1 → 6) Glc,1,1,1,1.1,20,70:30,fluoride,OBn,BF3-OEt2,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,1,30.0
+140,329,38,Glc (1-6) Glc,1,1,1,1.1,62,71:29,fluoride,OBn,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,29.000000000000000
+141,265,5,Glc (1-4) Glc,2 N,1,1,1.2,93,75:18,SEt,OBn,MeOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,-1,1,19.35483870967740
+142,445,169,GlcNAc (1-4) deoxyNojir,1,NR,1,(NR),92,77:15,SPh,N3,"NIS,TfOH",,,pyranose,O,,"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N=[N+]=[N-],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,1,16.304347826087000
+143,581,57,Man (14) Glc,1,1,1,1.2,80,81:19,SMe,OBn,"PhSeNPhth,TMSOTf",toluene,-45,pyranose,O,['Cc1ccccc1'],"[0, 1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,19.0
+144,240,49,Glc (1 → 3) Man,1,1,1,1.1,88,82:6,imidate,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,1,6.8181818181818200
+145,648,35,Neu5Ac (2-3) Gal,2,1.5,1,1,33,88:12,SMe,SPh,"NIS,TfOH",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,[*][S]C1=CC=CC=C1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,1,88.0
+146,330,38,Glc (16) Glc,1,1,1,1.1,54,90:10,fluoride,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,1,10.0
+156,602,63,Man (16) Gal,1,1,1,1,39,24:76,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,1,1,76.0
+157,270,57,Glc (1-4) Glc,I,1,1,1.4,99,31:69,SMe,OBn,"PhSeNPhth,TMSOTf",toluene,-45,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,1,69.0
+158,705,63,rHA (1-6) Gal,1,NR,1,(NR),61,35:65,Me2P=S,OBn,"TrtClO4,I2",Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, -1, 1, -1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3)OCl(=O)(=O)=O.II,-1,1,35.0
+159,1,130,Ara (1-3) GlcNAc,4,1,1,6.7,76,a,bromide,OBn,TBABr,DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, 0]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,0,0.0
+160,6,4,aRA [ 5S ] (1 → 6) Gal,1,(NR),1,(NR),30,a,bromide,OAc,"AgOTf,TMU",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 0]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+161,10,105,fUC (1-2) Gal,1,1,1,5.4,77,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+162,11,105,fUC (1-2) Gal,1,1,1,6.7,30,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+163,11,80,Gal (1-3 / 4) GlcNAc,1,1,1,1,86,a,imidate,OAc,BF3-OEt2,"DCM,hexane",-25,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,-1,0,0.0
+164,12,105,fUC (1-2) Gal,1,1,1,4,81,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+165,13,133,fUC (1-2) Gal,2,1,1,2.4,64,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+166,14,133,fUC (1-2) Gal,2,1,1,2.4,70,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+167,15,133,fUC (1-2) Gal,2,1,1,2.4,78,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+168,16,133,fUC (1-2) Gal,2,1,1,2.4,65,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+169,17,133,fUC (1-2) Gal,2,1,1,2.4,61,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+170,18,133,fUC (1-2) Gal,2,1,1,2.4,96,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+171,19,133,fUC (1-2) Gal,2,1,1,2.4,94,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+172,20,133,fUC (1-2) Gal,2,1,1,2.4,87,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+173,21,133,fUC (1-2) Gal,2,1,1,2.4,71,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+174,22,143,fUC (1-2) Gal,2,1,1,6,70,a,bromide,OBn,"AgOTf,MDTBP",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+175,23,61,fUC (1-2) Gal,2,(NR),1,(NR),NR,a,fluoride,OBn,"Sn(OTf)2,DTBP",THF,,pyranose,O,['C1CCOC1 '],"[0, 1, -1, -1, -1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+176,26,39,fUC (1-2) Gal,1,1,1,1.5,75,a,SEt,OCIBn,DMTSB,,,pyranose,O,,"[0, 1, -1, -1, -1]",[*]SCC,[*]OCC1=CC=C(Cl)C=C1,[B-](F)(F)(F)F.CS[S+](C)C ,1,0,100.0
+177,27,51,fUC (1-2) Gal,2,1,1,1.2,48,a,SMe,OBn,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+178,28,105,fUC (1-2) Gal [ 3NH₂ ],1,1,1,4,55,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+179,29,105,fUC (1-2) Gal [ 4NH₂ ],1,1,1,5.9,42,a,bromide,OBn,"AgOTf,MDTBP",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+180,30,105,fUC (1-2) Gal [ 6NH₂ ],1,1,1,4.9,79,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+181,31,105,fUC (1-2) Glc,1,1,1,4.9,80,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+182,32,105,fUC (1-2) Gul,1,1,1,4,78,a,bromide,OBn,TBABr,"DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+183,34,30,"fUC (1-2,3) Glc",1,1,1,1.9,43,a,dibenzylphosphite,OAc,TMSOTf,MeCN,-43,pyranose,O,['CC#N'],"[0, 1, -1, -1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+184,35,178,fUC (13) Deoxy Nojira,1,1,1,1.2,92,a,SMe,OBn,"NIS,TfOH",,,pyranose,O,,"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+185,36,114,fUC (1-3) Glc,2,1,1,3.3,82,a,bromide,OBn,"HgBr2,MDTBP",DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Br[Hg]Br.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+186,38,188,fUC (13) GlcNAc,1,1,1,4,93,a,sulfoxide,OBn,"Tf2O,MDTBP",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",[*]S(C1=CC=CC=C1)=O,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+187,39,11,fUC (1-3) GlcNAc,2,(NR),1,(NR),90,a,bromide,OPMB,"TBABr,DTBP","DCM,DMF",20,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,[*]OCC1=CC=C(OC)C=C1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] .CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+188,40,80,fUC (1 + 3) GlcNAc,1,1,1,1.6,85,a,imidate,OBn,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+189,41,80,fUC (1-3) GlcNAc,2,1,1,1.5,78,a,imidate,OBn,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+190,44,79,fUC (1-3) GlcNAc,1,1,1,2,74,a,trichloro ethyl phosphite,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, -1, -1, -1]",[*]OP(OCC(Cl)(Cl)Cl)OCC(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+191,45,126,fUC (1-3) GlcNAc,2,1,I,2,77,a,SMe,OBn,,"Et2O,DCE",20,pyranose,O,,"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,,1,0,100.0
+192,46,139,fUC (1 + 3) GlcNAc,2,1,1,2,72,a,SMe,OBn,"TBABr,CuBr2,DMF","DCE,DMF",20,pyranose,O,"['C(CCl)Cl ', 'CN(C)C=O']","[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] .[Cu](Br)Br .CN(C)C=O,1,0,100.0
+193,47,178,fUC (1-4) Deoxy Nojira,2,1,1,1.5,100,a,SMe,OBn,DMTST,Benzene,7,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+194,50,30,fUC (1-4) Glc,1,1,1,1,45,a,dibenzylphosphite,OBn,TMSOTf,,,pyranose,O,,"[0, 1, -1, -1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+195,51,153,fUC (1-4) GlcNAc,2,(NR),1,(NR),89,a,bromide,OBn,TBABr,,,pyranose,O,,"[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+196,52,171,fUC (1-4) GlcNAc,2,1,1,3,89,a,bromide,OBn,TBABr,"DCM,DMF",,pyranose,O,"['CC(Cl)Cl', 'CN(C)C=O']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+197,53,79,fUC (1-4) GlcNAc,2,1,1,1.25,86,a,dibenzylphosphite,OBn,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, -1, -1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+198,54,44,fUC (1-4) GlcNAc,5,1,1,1.5,60,a,SMe,OBn,"NIS,TfOH",toluene,0,pyranose,O,['Cc1ccccc1'],"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+199,55,92,fUC (1-4) GlcNAc,5,1,3,1.5,29,a,SMe,OBn,DMTST,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+200,56,173,fUC (1 → 6) GlcNAc,2,1,1,3.2,74,a,bromide,OBn,TEABr,"DMF,DCM",,pyranose,O,"['CN(C)C=O', 'CC(Cl)Cl']","[0, 1, -1, -1, -1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Br-].CC[N+](CC)(CC)CC,1,0,100.0
+201,57,173,fUC (1-6) GlcNAc,1,1,1,2.3,68,a,chloride,OPMB,TEABr,DMF,,pyranose,O,['CN(C)C=O'],"[0, 1, -1, -1, -1]",*Cl,[*]OCC1=CC=C(OC)C=C1,[Br-].CC[N+](CC)(CC)CC,1,0,100.0
+202,58,128,fUC (1-6) GlcNAc,5,(NR),1,(NR),65,a,SMe,OCH3,"CuBr2,TBABr",nitromethane,20,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, -1, -1, -1]",[*]SC,*OC,[Cu](Br)Br .CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+203,59,128,fUC (16) GlcNAc,4,(NR),1,(NR),68,a,SMe,OCH3,"CuBr2,TBABr",nitromethane,20,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, -1, -1, -1]",[*]SC,*OC,[Cu](Br)Br .CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,1,0,100.0
+204,66,120,Gal (1-2) Glc,1,1,1,1.1,37,a,bromide,OAc,AgOTf,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+205,75,88,Gal (1-3) Gal,1,1.5,2,1,81,a,imidate,OBz,TMSOTf,DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+206,76,39,Gal (1-3) Gal,1,1,1,1.6,57,a,SEt,OCIBn,DMTSB,"DCM,THF",,pyranose,O,"['CC(Cl)Cl', 'C1CCOC1 ']","[0, -1, 1, 1, 1]",[*]SCC,[*]OCC1=CC=C(Cl)C=C1,[B-](F)(F)(F)F.CS[S+](C)C ,-1,0,0.0
+207,77,124,Gal (1-3) Gal,2,1,1,1,65,a,SMe,OPMB,"CuBr2,DMF,TBABr","DCE,DMF",20,pyranose,O,"['C(CCl)Cl ', 'CN(C)C=O']","[0, -1, 1, 1, 1]",[*]SC,[*]OCC1=CC=C(OC)C=C1,[Cu](Br)Br .CN(C)C=O.CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,0,0.0
+208,78,124,Gal (1-3) Gal,2,1,1,2,56,a,SMe,OPMB,"CuBr2,DMF,TBABr","DCE,DMF",20,pyranose,O,"['C(CCl)Cl ', 'CN(C)C=O']","[0, -1, 1, 1, 1]",[*]SC,[*]OCC1=CC=C(OC)C=C1,[Cu](Br)Br .CN(C)C=O.CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,0,0.0
+209,79,179,Gal (1-3) Gal,1,1,1,1.1,49,a,SEt,OTBDMS,IDCP,"Et2O,DCE",-60,pyranose,O,"['CCOCC', 'C(CCl)Cl ']","[0, -1, 1, 1, 1]",[*]SCC,[*]O[Si](C)(C(C)(C)C)C,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],-1,0,0.0
+210,89,162,Gal (1-3) GalNAc,5,1,3,1.5,52,a,SMe,OBz,DMTST,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,-1,0,0.0
+211,90,146,Gal (13) Glc,1,1,1,1.3,68,a,chloride,OBz,"AgOTf,collidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+213,93,146,Gal (1-3) Glc,1,1,1,1,15,a,fluoride,OBz,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*F,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,-1,0,0.0
+214,101,44,Gal (1-3) GlcNAc,3,1,2,1.3,45,a,SMe,OBz,"MSB,AgOTf",DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+215,103,91,Gal (1-3) GlcNAc,3,1,1,2.1,86,a,SMe,OPMB,MeOTf,Et2O,,pyranose,O,['CCOCC'],"[0, -1, 1, 1, 1]",[*]SC,[*]OCC1=CC=C(OC)C=C1,COS(=O)(=O)C(F)(F)F  ,-1,0,0.0
+216,107,106,Gal (1-3) Man,1,1,1,1.5,47,a,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,-1,0,0.0
+217,117,124,Gal (14) Gal,3,1,1,2.1,60,a,SMe,OPMB,"CuBr2,DMF,TBABr","DCE,DMF",20,pyranose,O,"['C(CCl)Cl ', 'CN(C)C=O']","[0, -1, 1, 1, 1]",[*]SC,[*]OCC1=CC=C(OC)C=C1,[Cu](Br)Br .CN(C)C=O.CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,0,0.0
+218,143,176,Gal (14) iDOA,2,1,2,1.15,89,a,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+219,153,75,Gal (1-6) Glc,5,1,1,4.4,90,a,bromide,OBn,TBABr,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCCC[N+](CCCC)(CCCC)CCCC.[Br-] ,-1,0,0.0
+220,161,109,Gal [ 6d ] (1-4) Gal,2,1,1,1.25,56,a,SEt,OBn,"CuBr2,TBABr,AgOTf","nitromethane,DCM",20,pyranose,O,"['C[N+](=O)[O-]  ', 'CC(Cl)Cl']","[0, -1, 1, 1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[Cu](Br)Br .CCCC[N+](CCCC)(CCCC)CCCC.[Br-] .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+221,167,6,GalNAc (1-3) Gal,1,1,1,1.2,77,a,imidate,N3,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+222,171,66,GalNAc (13->3) GalNAc,3,1,1,2.5,84,a,bromide,N3,"AgOTf,TMU",toluene,-25,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, 1, 1]",*Br,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+223,172,6 -> 66,GalNAc (1-3) GalNAc,4,1,1,2.5,74,a,bromide,N3,"AgOTf,TMU",toluene,-25,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, 1, 1]",*Br,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+224,173,174,GalNAc (1 →→→ 3) Man,1,1,1,2.8,70,a,chloride,N3,"AgOTf,TMU",DCM,-45,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+225,197,156,Glc (1 → 1) Glc,1,1,1,1.1,91,a,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+226,198,156,Glc (11) Glc,1,1,1,1.3,84,a,imidate,OBn,AgOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+227,201,156,Glc (11) Man,1,1,1,1.1,87,a,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+228,202,156,Glc (11) Man,1,1,1,1.1,93,a,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+229,236,75,Glc (1 → 3) gLY - Man,3,1,1,1.3,66,a,SEt,OBn,DMTST,Et2O,0,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,-1,0,0.0
+230,238,75,Glc (13) gLY - Man,3,1,2,1.8,72,a,SMe,OBn,"NIS,AgOTf",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+231,276,16,Glc (1-4) GlcA,1,1,1,1.05,53,a,imidate,OBn,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+232,277,16,Glc (1-4) GlcA,1,1,1,1.05,52,a,imidate,OBn,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+233,279,176,Glc (1 4) GlcA,4,1,1,1.8,62,a,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+234,280,176,Glc (1-4) GlcA,4,1,1,1.8,60,a,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+235,281,176,Glc (1-4) GlcA,4,1,1,1.8,60,a,imidate,OCH3,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+236,282,176,Glc (1-4) GlcA,4,1,1,1.8,61,a,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+237,283,176,Glc (1-4) GlcA,4,1,1,1.8,75,a,imidate,OBn,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+238,286,16,Glc (1-4) iDOA,1,1,1,1.05,46,a,imidate,OBn,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+239,287,16,Glc (1-4) iDQA,1,1,1,1.05,41,a,imidate,OBn,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+241,323,10,Glc (1-6) Glc,2,1,1,2.3,54,a,fluoride,OBn,"SnCl2,AgClO4",Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, -1, 1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,0,0.0
+242,340,185,Glc (16) Glc,1,1,1,1,76,a,fluoride,OAc,BF3-OEt2,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,-1,0,0.0
+243,343,10,Glc (1-6) Glc,3,1,3,1,12,a,n-pentenyl,OBn,IDCP,"DCE,Et2O",20,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, 1, -1, 1]",[*]OCCCC=C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],-1,0,0.0
+247,387,37,Glc (16) Man,1,1.25,1,1,78,a,imidate,OAc,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+248,391,160,Glc [ 5S ] (1 + 2) Glc,1,2,1,1,16,a,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+249,392,160,Glc [ 5S ] (1 → 2) Glc,1,2,1,1,19,a,imidate,OAc,TESOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+250,393,22,Glc [ 5S ] (1 → 4) Glc,1,2,1,1,87,a,imidate,OAc,TESOTf,,-78,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+251,435,41,GlcNAc (13) Gal,2,1,1,1.7,94,a,SMe,NPhth,"NIS,TfOH",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+252,440,91,GlcNAc (1 → 3) rHA,2,1.2,1,1,53,a,chloride,N3,"AgOTf,MDTBP",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,*N=[N+]=[N-],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,-1,0,0.0
+253,520,33,GlcNAc (1 - x) inositol,1,1,1,1.6,55,a,imidate,N3,TMSOTf,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+254,521,33,GlcNAc (1 - x) inositol,1,1,1,2.6,65,a,imidate,N3,TMSOTf,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+255,522,160,Glc [ SS ] (1-2) Glc,1,1,1,1,22,a,SePh,OAc,NOBF4,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][Se]C1=CC=CC=C1,*OC([CH3])=O,[B-](F)(F)(F)F.N#[O+],-1,0,0.0
+256,523,160,Glc [ 5S ] (1 → 6) Glc,1,1,1,1,35,a,SePh,OAc,NOBF4,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][Se]C1=CC=CC=C1,*OC([CH3])=O,[B-](F)(F)(F)F.N#[O+],-1,0,0.0
+262,541,76,KDO (2-4) KDO,3,1,1,1.8,60,a,bromide,H,"Hg(CN)2,HgBr2","CH3NO2,DCM",,pyranose,O,"['C[N+](=O)[O-]  ', 'CC(Cl)Cl']","[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+263,542,76,KDO (2 → 4) KDO,3,1,1,1.6,50,a,bromide,H,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+264,543,76,KDO (2-4) KDO,3,1,2,3,20,a,bromide,H,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+265,544,76,KDO (2-4) KDO,3,1,2,3,19,a,bromide,H,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+266,546,112,KDO (2-4) KDO,1,4.9,2,1,17,a,bromide,H,"Hg(CN)2,HgBr2",MeCN,20,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+267,548,76,KDO (2-6) GlcNAc,2,1,1,5.7,52,a,bromide,H,"Hg(CN)2,HgBr2","CH3NO2,DCM",,pyranose,O,"['C[N+](=O)[O-]  ', 'CC(Cl)Cl']","[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+268,549,112,KDO (2-8) KDO,1,1,2,1.2,23,a,bromide,H,"Hg(CN)2,HgBr2",nitromethane,20,pyranose,O,['C[N+](=O)[O-]  '],"[0, 0, 1, 1, 1]",*Br,*[H],C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+269,550,112,KDO (2 - 8) KDO,1,1.3,1,1,64,a,fluoride,H,BF3-OEt2,MeCN,0,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*F,*[H],CCO(CC).[B-](F)(F)F,-1,0,0.0
+270,551,112,KDO (2-8) KDO,1,1,1,1.1,59,a,fluoride,H,BF3-OEt2,MeCN,0,pyranose,O,['CC#N'],"[0, 0, 1, 1, 1]",*F,*[H],CCO(CC).[B-](F)(F)F,-1,0,0.0
+272,553,130,"lYX [ 2,6d ] (1-3) GlcNAc",4,1,1,8,85,a,fluoride,H,"AgClO4,SnCl2,TMU",DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, 0, -1, 1, 0]",*F,*[H],[O-]Cl(=O)(=O)=O.[Ag+].Cl[Sn]Cl.CN(C)C(=O)N(C)C,1,0,100.0
+273,554,90,"lYX [ 2,6d ] (1-3) GlcNAc",2,1,1,1.2,86,a,SMe,H,DMTST,Benzene,20,pyranose,O,['C1=CC=CC=C1 '],"[0, 0, -1, 1, 0]",[*]SC,*[H],CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+274,555,109,Lyx [ 2d ] (1 → 4) Gal,2,1.05,1,1,65,a,SPyr,H,AgOTf,DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, 0, 1, -1, 0]",[*]SC1=NC=CC=C1,*[H],C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+275,556,28,Man (1-2) gUL,1,1,1,1.2,93,a,dibenzylphosphite,OAc,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+276,557,77,Man (1 → 2) Man,1,1,1,1.1,73,a,bromide,OAc,AgOTf,toluene,-40,pyranose,O,['Cc1ccccc1'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+277,558,77,Man (1-2) Man,1,1,1,1.1,75,a,bromide,OAc,AgOTf,toluene,-40,pyranose,O,['Cc1ccccc1'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+278,559,142,Man (1 → 2) Man,2,(NR),1,(NR),2 92,a,imidate,OAc,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+279,560,142,Man (1 + 2) Man,3,(NR),1,(NR),91,a,imidate,OAc,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+280,561,103,Man (1 → 2) Man,1,1,1,1.3,73,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+281,562,103,Man (1-2) Man,2,1,1,2.5,70,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+282,563,163,Man (12) Man,1,(NR),1,(NR),78,a,n-pentenyl,OBz,"NIS,TESOTf",,,pyranose,O,,"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+283,564,163,Man (12) Man,2,(NR),1,(NR),78,a,n-pentenyl,OBn,"NIS,TESOTf",,,pyranose,O,,"[0, 1, 1, -1, 1]",[*]OCCCC=C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+284,565,99,Man (1→2) Man,1,1,1,1.25,65,a,SEt,OBn,DMTST,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,-1,0,0.0
+285,567,112->113,Man (1-3) Man,1,1,2,3,55,a,chloride,OSugar,"Hg(CN)2,HgBr2",nitromethane,0,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, 1, -1, 1]",*Cl,[*]OC1C(O)C(O)C(O)C(O)O1,C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+286,569,70,Man (1-3) Man,3,1,1,2.3,61,a,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+287,570,184,Man (1-3) Man,5,1,I,10,59,a,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+288,571,184,Man (1 → 3) Man,6,1,1,3.1,88,a,imidate,OAc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+289,572,103,Man (1-3) Man,1,1,1,1.3,96,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+290,573,103,Man (1-3) Man,1,1,3,1.3,72,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+291,574,70,"Man (1-3,6) Man",2,1,1,3.7,71,a,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+292,576,36,Man (14) Glc,1,1,1,1.5,41,a,bromide,OAc,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+293,579,54,Man (14) Glc,1,1.15,1,1,76,a,Me2P=S,OBn,AgClO4,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+],-1,0,0.0
+294,582,36,Man (1-4) GlcNAc,1,1,1,1.5,40,a,bromide,OAc,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+295,584,142,Man (14) GlcNAc,2,(NR),4,(NR),91,a,imidate,OAc,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+296,589,36,Man (14) GlcNAc,1,1.5,2,1,69,a,SEt,OAc,"NIS,AgOTf",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]SCC,*OC([CH3])=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+297,590,36,Man (1-4) GlcNAc,2,1,1,2,49,a,SEt,OAc,"NIS,AgOTf",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]SCC,*OC([CH3])=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+298,591,118,Man (1 → 4) Man,1,1,1,2,73,a,bromide,OAc,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+299,592,123,Man (1-4) Man,1,1,1,1.4,81,a,acetate,-S,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC([CH3])=O,*S,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+301,601,63,Man (16) Gal,1,1,1,1,80,a,Me2P=S,OBn,AgClO4,toluene,,pyranose,O,['Cc1ccccc1'],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+],-1,0,0.0
+302,603,36,Man (1 → 6) Glc,1,1,1,1,78,a,bromide,OAc,"Hg(CN)2,HgBr2",MeCN,,pyranose,O,['CC#N'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+303,604,98,Man (1→6) Glc,1,1,2,1.5,56,a,bromide,OAc,"AgOTf,collidine",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+304,606,161,Man (1-6) Glc,1,1,2,1.5,64,a,chloride,OSugar,"HgBr2,Hg(CN)2",nitromethane,0,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, 1, -1, 1]",*Cl,[*]OC1C(O)C(O)C(O)C(O)O1,Br[Hg]Br.C(#N)[Hg]C#N ,-1,0,0.0
+305,607,161,Man (16) Glc,1,1,2,1,61,a,chloride,OSugar,"HgBr2,Hg(CN)2",nitromethane,0,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, 1, -1, 1]",*Cl,[*]OC1C(O)C(O)C(O)C(O)O1,Br[Hg]Br.C(#N)[Hg]C#N ,-1,0,0.0
+306,609,38,Man (1 → 6) Glc,1,1.25,1,1,83,a,imidate,OBz,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+307,612,118,Man (16) Man,1,1,1,2,53,a,bromide,OAc,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+308,613,118->119,Man (16) Man,1,1.2,2,1,39,a,bromide,OSugar,Hg(CN)2,"Benzene,nitromethane",20,pyranose,O,"['C1=CC=CC=C1 ', 'C[N+](=O)[O-]  ']","[0, 1, 1, -1, 1]",*Br,[*]OC1C(O)C(O)C(O)C(O)O1,C(#N)[Hg]C#N ,-1,0,0.0
+309,614,118->119,Man (16) Man,1,1,2,1.8,38,a,bromide,OSugar,"AgOTf,TMU",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,[*]OC1C(O)C(O)C(O)C(O)O1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+310,615,118->119,Man (1-6) Man,1,1,1,1.3,68,a,bromide,OAc,Hg(CN)2,MeCN,20,pyranose,O,['CC#N'],"[0, 1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,-1,0,0.0
+311,616,113,Man (16) Man,3,1,2,4,80,a,chloride,OSugar,"Hg(CN)2,HgBr2",nitromethane,0,pyranose,O,['C[N+](=O)[O-]  '],"[0, 1, 1, -1, 1]",*Cl,[*]OC1C(O)C(O)C(O)C(O)O1,C(#N)[Hg]C#N .Br[Hg]Br,-1,0,0.0
+312,618,70,Man (1-6) Man,2,1,1,1.3,77,a,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+313,619,89,Man (1-6) Man,1,1,2,1.5,57,a,imidate,OAc,AgOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+314,620,89,Man (1-6) Man,1,1,1,1.3,48,a,imidate,OAc,AgOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+315,621,142,Man (16) Man,1,(NR),1,(NR),84,a,imidate,OAc,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+316,622,184,Man (1-6) Man,4,1,1,3.4,71,a,imidate,OAc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+317,623,184,Man (16) Man,5,1,1,2.4,45,a,imidate,OAc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+318,624,103,Man (1 → 6) Man,2,1,1,1.3,77,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+319,625,103,Man (1-6) Man,4,1,5,1.3,57,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+320,626,123,Man- (1-4) Man,1,1.4,1,1,89,a,SPh,"2,6-S-anhydro","NIS,TMSOTf",DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*SC,C1CC(=O)N(C1=O)I .C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+321,627,29,ManA (15) IAL,1,1,1,8,85,a,imidate,OAc,TMSOTf,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+322,629,180,Man [ 4NH₂ ] (1-2) Man[ 4NH₂ ],1,1,1,1.3,93,a,chloride,OAc,"AgOTf,collidine",DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Cl,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+323,630,180,Man [ 4NH₂ ] (1-2) Man[ 4NH₂ ],1,1,1,1.5,81,a,chloride,OBz,"AgOTf,collidine",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,-1,0,0.0
+324,634,12,Neu5Ac (2-3) Gal,1,(NR),1,(NR),69,a,bromide,SPh,Hg++,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,[Hg+2].,1,0,100.0
+325,635,164,Neu5Ac (2-3) Gal,2,1,1,4,7,a,bromide,SPh,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+326,636,164,Neu5 Ac (2-3) Gal,2,1,1,4,75,a,bromide,SPh,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+327,637,164,Neu5Ac (2 → 3) Gal,2,1,1,4,82,a,bromide,SPh,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+328,638,47,Neu5Ac (2-3) Gal,2,1.2,2,1,6,a,chloride,H,"AgOTf,DTBP","toluene,THF",-45,pyranose,O,"['Cc1ccccc1', 'C1CCOC1 ']","[0, 0, -1, 1, -1]",*Cl,*[H],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+329,639,47,Neu5 Ac (2 → 3) Gal,2,1,2,1,12,a,chloride,H,"AgOTf,DTBP","toluene,THF",-45,pyranose,O,"['Cc1ccccc1', 'C1CCOC1 ']","[0, 0, -1, 1, -1]",*Cl,*[H],C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+330,643,114,Neu5 Ac (2 → 3) Gal,3,1.5,1,1,36,a,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+331,644,114,Neu5Ac (2 → 3) Gal,3,1.5,1,1,20,a,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+332,645,35,Neu5Ac (2-3) Gal,2,1,1,1,54,a,SMe,SPh,"MSB,AgOTf",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,[*][S]C1=CC=CC=C1,CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+333,646,35,Neu5Ac (2 → 3) Gal,2,1.5,1,1,67,a,SEt,SPh,"MSB,AgOTf",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SCC,[*][S]C1=CC=CC=C1,CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+334,647,35,Neu5 Ac (2 → 3) Gal,2,1.5,1,1,57,a,SEt,SPh,"NIS,TfOH",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SCC,[*][S]C1=CC=CC=C1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+335,649,40,Neu5Ac (2 → 3) Gal,2,1,1,2,48,a,SMe,H,DMTST,MeCN,-20,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+336,650,45,Neu5Ac (2-3) Gal,1,2,3,1,30,a,SPh,H,"NIS,TfOH",MeCN,-35,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+337,651,45,Neu5Ac (2-3) Gal,2,2,3,1,49,a,SPh,H,"NIS,TfOH",MeCN,-35,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+338,652,122,Neu5Ac (2 → 3) Gal,3,(NR),2,(NR),50,a,SPh,H,"NIS,TfOH",,,pyranose,O,,"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+339,654,139,Neu5Ac (2-3) Gal,3,1,1,3,64,a,SPh,H,"NIS,TfOH",propionitrile,-75,pyranose,O,['CCC#N '],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+340,655,139,Neu5Ac (2 → 3) Gal,2,1,1,2,43,a,SPh,H,"NIS,TfOH",propionitrile,-45,pyranose,O,['CCC#N '],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+341,656,162,Neu5Ac (2-3) Gal,3,1,2,2,50,a,SPh,H,"NIS,TfOH",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+342,660,23,Neu5Ac (2-6) -Galhep [ 6S ],1,1.1,1,1,60,a,chloride,H,DMF,DMF,-20,pyranose,O,['CN(C)C=O'],"[0, 0, -1, 1, -1]",*Cl,*[H],CN(C)C=O,1,0,100.0
+343,661,23,Neu5 Ac (2-6) -Gahep [ 65 ],1,1.1,1,1,60,a,chloride,H,DMF,DMF,-20,pyranose,O,['CN(C)C=O'],"[0, 0, -1, 1, -1]",*Cl,*[H],CN(C)C=O,1,0,100.0
+344,662,178,Neu5 Ac (2-6) DeoxyNojir,2,1,1,1.7,56,a,SMe,H,"NIS,TfOH",MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]SC,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+345,664,159,Neu5Ac (2 → 6) Gal,1,1,1,1.2,52,a,SPh-OCH3,H,"NIS,TfOH",CH3CH2CN,-60,pyranose,O,['CCC#N '],"[0, 0, -1, 1, -1]",[*]SC1=CC=C(OC)C=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+346,669,164,Neu5 Ac (2-6) GalNAc,3,1,1,2.5,69,a,bromide,SPh,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+347,670,164,Neu5 Ac (2 →→ 6) GalNAc,3,1,1,2.5,69,a,bromide,SPh,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, 0, -1, 1, -1]",*Br,[*][S]C1=CC=CC=C1,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+348,671,46,Neu5Ac (2 → 6) GalNAc,4,1,1,3,36,a,SPh,H,"NIS,TfOH",MeCN,-30,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*][S]C1=CC=CC=C1,*[H],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+350,679,157,rHA (1-2) aLT,1,1,1,1.05,60,a,imidate,OAc,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+351,680,91,rHA (1-2) Gal,4,1,2,2.7,38,a,bromide,OBz,"AgOTf,MDTBP",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+352,681,93,rHA (1-2) Gal,3,1,1,3.4,94,a,chloride,OBz,"AgOTf,MDTBP",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+353,682,96,rHA (1-2) Gal [ 3F ],1,1,1,1.8,90,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+354,683,96,rHA (1-2) Gal [ 4F ],1,1,1,1.8,92,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+355,684,107,rHA (1-2) Gal [ 6 - d ],1,1,1,1.4,97,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+356,685,96,rHA (1-2) Gal [ 6F ],1,1,1,1.9,85,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+357,686,93,rHA (1-2) Glc,3,1,1,1.6,94,a,bromide,OBz,"AgOTf,MDTBP",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+358,687,81,rHA (1-2) Glc [ 6 - d ],2,1,1,2,76,a,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+359,688,157,rHA (1-2) aLT,1,1,2,1.08,61,a,imidate,OSugar,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC1C(O)C(O)C(O)C(O)O1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+360,689,91,rHA (1-2) rHA,1,1,1,3,73,a,acetate,NHAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC([CH3])=O,*[NH]C([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+361,690,116,rHA (1-2) rHA,1,1,1,1.1,60,a,acetate,OCH3,BF3-OEt2,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC([CH3])=O,*OC,CCO(CC).[B-](F)(F)F,1,0,100.0
+362,691,141,rHA (1-2) rHA,1,(NR),1,(NR),59,a,SEt,OBn,IDCP,"DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, -1, 1, -1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],1,0,100.0
+363,692,141,rHA (1-2) rHA,1,(NR),2,(NR),72,a,SEt,OSugar,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, -1, 1, -1]",[*]SCC,[*]OC1C(O)C(O)C(O)C(O)O1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+364,693,141,rHA (1 2) rHA,1,(NR),2,(NR),62,a,SEt,OSugar,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, -1, 1, -1]",[*]SCC,[*]OC1C(O)C(O)C(O)C(O)O1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+365,694,69,rHA (1-2) tAL- (6 - deoxy),1,1.2,1,1,72,a,SEt,OBn,MeOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,1,0,100.0
+366,695,71,rHA (1-2) tAL- (6 - deoxy),1,1,2,1.2,72,a,SEt,OBz,"NIS,TfOH","DCM,Et2O",-30,pyranose,O,"['CC(Cl)Cl', 'CCOCC']","[0, -1, -1, 1, -1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+367,696,107,rHA (1-2) Xyl [ 3d ],1,1,1,1.4,92,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+368,697,107,rHA (1-2) Xyl [ 4d ],1,1,1,1.4,93,a,bromide,OBz,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+369,698,167,rHA (13) Gal,1,1,1,2,37,a,bromide,OBz,AgOTf,MeCN,,pyranose,O,['CC#N'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+370,699,149,rHA (13) Glc,1,1,1,1.2,76,a,bromide,OBz,Hg(CN)2,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(#N)[Hg]C#N ,1,0,100.0
+371,700,149,rHA (13) Glc,1,1.2,1,1,88,a,OCOCl3,OBz,"TMSOTf,MDTBP",,,pyranose,O,,"[0, -1, -1, 1, -1]",[*]OC(C(Cl)(Cl)Cl)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+372,701,91,rHA (1 → 3) rHA,1,1.2,1,1,53,a,bromide,OBz,AgOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+373,702,93,rHA (1 → 3) rHA,4,1.5,4,1,69,a,imidate,OBz,BF3-OEt2,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,0,100.0
+374,706,149,rHA (1 → 6) Glc,2,1,1,1.2,88,a,bromide,OBz,Hg(CN)2,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, -1, 1, -1]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(#N)[Hg]C#N ,1,0,100.0
+375,707,149,rHA (1 → 6) Glc,2,1,1,1.1,96,a,OCOCl3,OBz,"TMSOTf,MDTBP",,,pyranose,O,,"[0, -1, -1, 1, -1]",[*]OC(C(Cl)(Cl)Cl)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+376,710,157,rHA (1-6) GlcNAc,1,1,1,1,76,a,imidate,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, -1, 1, -1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+378,715,34,Rib [ 2d ] (1-6) Glc,1,1,1,1,82,a,OTBDMS,H,TMSOTf,DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, 0, -1, -1, 0]",[*]O[Si](C)(C(C)(C)C)C,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+379,716,34,Rib [ 2d ] (1-6) Glc,2,1,1,1.2,75,a,OTBDMS,H,TMSOTf,DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, 0, -1, -1, 0]",[*]O[Si](C)(C(C)(C)C)C,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+380,717,130,"xYL [ 3,6d ] (1 + 3) GlcNAc",4,1,1,8,84,a,fluoride,OBn,"AgClO4,SnCl2,TMU",DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, 1, 0, 1, 0]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+].Cl[Sn]Cl.CN(C)C(=O)N(C)C,1,0,100.0
+381,718,90,"xYL [ 3,6d ] (1-3) GlcNAc",2,1,1,1.2,82,a,SMe,OBn,DMTST,Benzene,20,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, 0, 1, 0]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+382,720,90,"xYL [ 4,6d ] (1 → 3) GlcNAc",2,1,1,1.2,57,a,SMe,OBz,DMTST,Benzene,20,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, -1, 0, 0]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,-1,0,0.0
+383,730,174,"Xyl [ 3,6 ] (1 → 3) Man",1,1,1,1.4,58,a,chloride,OBn,"AgOTf,TMU",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 0, -1, 0]",*Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+384,731,108,Xyl [ 3d ] (1 → 4) Gal,2,1.05,1,1,22,a,fluoride,OBn,"SnCl2,AgClO4",,,pyranose,O,,"[0, -1, 0, -1, 0]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.[O-]Cl(=O)(=O)=O.[Ag+],-1,0,0.0
+385,732,109,Xyl [ 3d ] (1 + 4) Gal,2,1.05,1,1,84,a,SPyr,OBn,AgOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 0, -1, 0]",[*]SC1=NC=CC=C1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],-1,0,0.0
+386,566,103,"Man (1-2,2 ') Man",3,1,1,2.5,68,a,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+387,575,63,"Man (1-3,6) Man",1,1,1,2.2,78,a,Me2P=S,OBn,AgClO4,Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, 1, 1, -1, 1]",S=P(C)(O[*])C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+],-1,0,0.0
+388,631,129,"Man [ 6d ] (1 → 3,6) Man",1,1,1,2.05,53,a,chloride,OAc,"AgOTf,TMU",DCE,20,pyranose,O,['C(CCl)Cl '],"[0, 1, 1, -1, 1]",*Cl,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,-1,0,0.0
+389,7,60,"fUC (1-2 ' ,3) Gal - Glycal",2,1,1,4,51,a,fluoride,OBn,"AgClO4,SnCl2",Et2O,30,pyranose,O,['CCOCC'],"[0, 1, -1, -1, -1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+].Cl[Sn]Cl,1,0,100.0
+390,8,132,"fUC (1-2 ' ,3) Gal - GlcNAc",2,1,1,2.3,93,a,imidate,OBn,ZnCl2-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.CCO(CC),1,0,100.0
+391,9,61,"fUC (1-2,4) Gal - Glycal",2,1,1,5,NR,a,fluoride,OBn,"Sn(OTf)2,DTBP",THF,,pyranose,O,['C1CCOC1 '],"[0, 1, -1, -1, -1]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+392,37,116,fUC (1-3) Glc,1,1,1,1.2,54,B,acetate,OCH3,BF3-OEt2,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC([CH3])=O,*OC,CCO(CC).[B-](F)(F)F,-1,0,0.0
+393,42,132,fUC (1 → 3) GlcNAc,2,1,1,(NR),97,B,imidate,OBn,ZnCl2-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, -1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,Cl[Sn]Cl.CCO(CC),-1,0,0.0
+394,61,42,fUCNAc- (1 → 3)GlcNAc,1,1,1,1.6,75,B,SEt,N3,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, 1, -1, -1, -1]",[*]SCC,*N=[N+]=[N-],C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+395,63,13,Gal (1 - aliphatic),1,1,1,2,100,B,chloride,OBn,Zn butylbenzoate,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC(C)(C)C1=CC=C(C=C1)C(=O)[O-].CC(C)(C)C1=CC=C(C=C1)C(=O)[O-].[Zn+2],1,0,100.0
+396,64,82,Gal (1-2) Glc,1,1.35,1,1,45,B,bromide,OCAMB,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,[*]OC(C1=C(COC(CCl)=O)C=CC=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+397,65,106,Gal (1-2) Glc,1,1,1,1.2,20,B,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,0,100.0
+398,67,174,Gal (1-2) Man,2,1,1,2,86,B,bromide,OBn,"AgOTf,TMU",DCM,-45,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+399,68,174,Gal (1-2) Man,2,1,1,1,52,B,SEt,OAc,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SCC,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+400,72,178,Gal (13) Deoxy Nojira,1,1,2,1.2,90,B,SMe,OBz,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+401,73,15,Gal (1-3) Gal,2,1,1,2,65,B,bromide,OAc,"AgOTf,TMU",DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+402,82,164,Gal (1-3) GalNAc,1,1,1,1.2,70,B,bromide,OAc,"AgOTf,DTBP",,,pyranose,O,,"[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+403,83,6,Gal (1-3) GalNAc,1,1.3,2,1,58,B,imidate,OLev,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+404,96,146,Gal (1-3) Glc,1,1,1,1.6,100,B,imidate,OBz,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+405,97,30,Gal (1-3) GlcNAc,1,1,1,1,62,B,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+406,98,30,Gal (1-3) GlcNAc,1,1,1,1,58,B,dibenzylphosphite,OAc,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, 1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+407,99,79,Gal (1-3) GlcNAc,1,1,1,2,64,B,dibenzylphosphite,OAc,TMSOTf,Et2O,20,pyranose,O,['CCOCC'],"[0, -1, 1, 1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+408,100,188,Gal (1-3) GlcNAc,1,1,1,4,-88,B,sulfoxide,OPiv,"Tf2O,MDTBP",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,[*]OC(C(C)(C)C)=O,C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+409,102,91,Gal (13) GlcNAc,3,1,1,1.9,88,B,SMe,OBn,MeOTf,Et2O,,pyranose,O,['CCOCC'],"[0, -1, 1, 1, 1]",[*]SC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,1,0,100.0
+410,104,93,Gal (1-3) GlcNAc,2,1,1,1.8,87,B,SMe,OPMB,MeOTf,Et2O,25,pyranose,O,['CCOCC'],"[0, -1, 1, 1, 1]",[*]SC,[*]OCC1=CC=C(OC)C=C1,COS(=O)(=O)C(F)(F)F  ,1,0,100.0
+411,105,97,Gal (1-3) GlcNAc,3,1,2,1.5,90,B,SMe,OBz,DMTST,DCM,8,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+413,111,80,Gal (1-3 / 4) GlcNAc,1,1.3,1,1,70,B,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+414,114,178,Gal (1-4) Deoxy Nojira,2,1,2,1.5,59,B,SMe,OBz,DMTST,Benzene,-7,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+415,118,30,Gal (14) Glc,1,1,1,1,66,B,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+416,119,11,Gal (1-4) GlcNAc,1,1,1,1.2,78,B,bromide,OAc,"AgOTf,DTBP","DCM,toluene",20,pyranose,O,"['CC(Cl)Cl', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC(C)(C)C1=NC(=CC=C1)C(C)(C)C,1,0,100.0
+417,124,133,Gal (1-4) GlcNAc,1,1,1,1.6,86,B,bromide,OAc,AgOTf,"nitromethane,toluene",-30,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+418,125,166,Gal (1-4) GlcNAc,1,(NR),1,(NR),69,B,bromide,OAc,AgOTf,DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+419,128,37,Gal (1-4) GlcNAc,3,1,1,2.1,64,B,imidate,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+420,129,37,Gal (1-4) GlcNAc,3,1,1,2.1,66,B,imidate,OAc,TMSOTf,,,pyranose,O,,"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+421,131,41,Gal (1-4) GlcNAc,4,1,2,2,74,B,SMe,OBz,DMTST,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+422,132,41,Gal (1-4) GlcNAc,6,1,2,1,28,B,SMe,OBz,DMTST,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+423,133,80,Gal (1-4) GlcNAc,3,1,1,1.2,42,B,SMe,OBz,DMTST,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+424,138,126,Gal (1-4) GlcNAc,1,1,1,1.2,61,B,SMe,OAc,MeOTf,toluene,-15,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, 1, 1]",[*]SC,*OC([CH3])=O,COS(=O)(=O)C(F)(F)F  ,1,0,100.0
+425,139,86,Gal (1-4) Glc [ 6d ],1,(NR),1,(NR),44,B,imidate,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+426,142,122,Gal (14) iDOA,4,(NR),1,(NR),40,B,imidate,OAc,TMSOTf,,,pyranose,O,,"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+427,145,84,Gal (1-4) iDOA,1,(NR),1,(NR),90,B,SEt,OBz,"NIS,TfOH",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+428,146,133,Gal (1-4) Xyl,1,1,1,2.3,34,B,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,0,100.0
+429,147,88,Gal (1-4) Xyl,1,1.8,3,1,77,B,imidate,OBz,TMSOTf,DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+430,148,88,Gal (1-4) Xyl,1,1,1,1.2,75,B,imidate,OBz,TMSOTf,DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+431,149,88,Gal (1-4) Xyl,I,1.25,3,1,79,B,imidate,OBz,TMSOTf,DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+432,150,120,"Gal (1-4,6) Glc",1,1,1,2.4,25,B,imidate,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+433,151,35,Gal (16) Gal,1,1,1,4,(NR),B,sulfoxide,OPiv,"Tf2O,MDTBP",,,pyranose,O,,"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,[*]OC(C(C)(C)C)=O,C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+434,152,188,Gal (1-6) Gal,2,1,1,4,52,B,sulfoxide,OPiv,"Tf2O,MDTBP",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,[*]OC(C(C)(C)C)=O,C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F.Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C,1,0,100.0
+435,160,74,Gal [ 4F ] (1-4) Glc,1,1,1,1.8,44,B,bromide,OAc,"Hg(CN)2,HgBr2",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+436,163,65,GalNAc (1 → 3) Gal,1,1,1,1.5,83,B,chloride,NPhth,"AgOTf,TMU",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+437,174,125,GalNAc (1 → 4) Gal,3,1,1,2,13,B,bromide,NPhth,AgOTf,,,pyranose,O,,"[0, -1, 1, 1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+438,178,68,GalNAc (1-4) Gal,4,1,1,1.5,85,B,SMe,NPhth,"NIS,TfOH",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+439,179,102,GalNAc (1-4) Gal,2,(NR),1,NR,53,B,SMe,NPhth,"NIS,TfOH",DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+440,182,162,GalNAc (1-4) Gal,2,1,1,1.2,53,B,SMe,NPhth,"NIS,TfOH",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+441,183,168,GalNAc (1 → 4) Glc,1,1.2,1,1,80,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+442,184,168,GalNAc (1 → 4) Glc,1,1.2,1,1,80,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+443,185,168,GalNAc (1-4) Glc,1,1.2,1,1,80,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+444,187,168,GalNAc (1-4) Glc,1,1.2,1,1,81,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+445,191,168,GalNAc (1 → 6) Gal,1,1.2,1,1,94,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+446,193,168,GalNAc (1-6) Glc,1,1.2,1,1,99,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+447,194,168,GalNAc (1 → 6) Glc,1,1.2,1,1,99,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+448,195,168,GalNAc (1 → 6) Glc,1,1.2,1,1,99,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+449,199,156,Glc (1-1) Glc,2,1,1,(1 : 1),66,B,imidate,OBn,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+450,204,18,Glc (1-2) Glc,1,(NR),1,(NR),71,B,vinyl ether,OAc,TMSOTf,MeCN,0,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]O/C(C)=C/C,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+451,229,155,Glc (13) Glc,1,1,1,2,74,B,vinyl ether iso,OPiv,"NIS,TfOH",MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC(C)=C,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+452,231,183,Glc (13) Glc,1,1,1,2,84,B,SEt,OBz,"NIS,AgOTf",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+453,233,87,Glc (13) GlcNAc,1,1,1,1.3,87,B,imidate,OTol,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,CC1=CC=C(O[*])C=C1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+454,235,158,Glc (13) GlcNAc,2,1,2,2.5,77,B,imidate,OTol,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,CC1=CC=C(O[*])C=C1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+455,241,71,Glc (1-3) rHA,2,1.06,1,1,42,B,imidate,OAc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+456,243,71,Glc (13) rHA,1,1,1,1.2,96,B,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+457,244,71,Glc (1 → 3) rHA 1,1,1,1,1.2,80,B,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+458,245,71,Glc (1 → 3) rHA 1,1,1,1,1,92,B,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+459,246,116,Glc (13) tAL [ 6d ] 2,2,1,1,2,56,B,bromide,OAc,"Hg(CN)2,HgBr2",,,pyranose,O,,"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+460,252,85,Glc (1-4) Glc,2,(NR),3,(NR),47,B,bromide,OAc,"AgOTf,TMU",DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+461,256,155,Glc (1-4) Glc,1,1,1,2,69,B,vinyl ether iso,OPiv,"NIS,TfOH",MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC(C)=C,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+462,257,155,Glc (1-4) Glc,1,1,1,2,70,B,vinyl ether iso,OPiv,"NIS,TfOH",MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC(C)=C,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+463,275,146,Glc (1-4) Glc,1,1,3,1,45,B,SMe,OBz,"NIS,TfOH","DCM,Et2O",-40,pyranose,O,"['CC(Cl)Cl', 'CCOCC']","[0, -1, 1, -1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+464,284,59,Glc (1-4) GlcNAc,1,(NR),1,(NR),85,B,fluoride,OAc,BF3-OEt2,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+465,288,72,Glc (1-4) rHA,1,1,1,1.1,81,B,bromide,OAc,Hg(CN)2,MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,0,100.0
+466,291,38,Glc (16) Gal,1,1,1,1.1,55,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+468,313,172,Glc (16) Gal,1,1,1,1,83,B,tetrazol,OBn,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+469,315,186,Glc (16) Glc,2,(NR),1,(NR),75,B,bromide,OMBz,AgOTf,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",*Br,[*]OC(C1=CC=C(C)C=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+470,316,185,Glc (1-6) Glc,1,1,1,1.2,84,B,bromide,OMBz,AgOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,[*]OC(C1=CC=C(C)C=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+471,317,185,Glc (1-6) Glc,1,1,1,1.2,79,B,bromide,OMBz,AgOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,[*]OC(C1=CC=C(C)C=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+472,318,185,Glc (1-6) Glc,1,1,1,1.2,44,B,bromide,OMBz,AgOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,[*]OC(C1=CC=C(C)C=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+473,319,147,Glc (1-6) Glc,1,1.3,1,1,38,B,bromide,OAc,"DMF,LiBr",DMF,20,pyranose,O,['CN(C)C=O'],"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,CN(C)C=O.[Li+].[Br-],1,0,100.0
+474,321,38,Glc (16) Glc,1,1.3,1,1,66,B,chloride,OBz,AgOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+475,326,38,Glc (1 → 6) Glc,1,1,1,1.1,45,B,fluoride,OAc,TiF4,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,F[Ti](F)(F)F ,1,0,100.0
+476,332,38,Glc (16) Glc,1,1,1,1.1,63,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+477,333,38,Glc (1-6) Glc,1,1,1,1.1,70,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+478,334,38,Glc (1-6) Glc,1,1,1,1.1,68,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+479,335,38,Glc (1-6) Glc,1,1,1,1.1,66,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+480,336,38,Glc (16) Glc,1,1,1,1.1,59,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+481,337,38,Glc (1-6) Glc,1,1,2,1.1,61,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+482,342,185,Glc (16) Glc,1,1,1,1,62,B,imidate,OAc,BF3-OEt2,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+483,344,14,Glc (1 → 6) Glc,1,1,1,1,34,B,reducing sugar,OBz,Fe(ClO4)3,DCM,39.6,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Fe+3],1,0,100.0
+484,354,30,Glc (16) Glc,1,1,1,1,62,B,dibenzylphosphite,OBn,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+485,356,30,Glc (1-6) Glc,1,1,1,1,72,B,dibenzylphosphite,OBn,TfOH,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,O=S(=O)(O)C(F)(F)F,1,0,100.0
+486,357,30,Glc (1-6) Glc,1,1,I,1,66,B,dibenzylphosphite,OBn,Tf2O,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F,1,0,100.0
+487,358,19,Glc (16) Glc,I,1,| 1,2,43,B,sulfoxide,OBz,TMSOTf,DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+488,359,19,Glc (16) Glc,1,1,1,2,51,B,sulfoxide,OBz,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+489,362,19,Glc (1 → 6) Glc,1,1,1,2,70,B,sulfoxide,OBz,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+490,366,38,Glc (1-6) Glc,1,1.05,1,1,77,B,SEt,OBz,MeOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,COS(=O)(=O)C(F)(F)F  ,1,0,100.0
+491,370,115,Glc (16) Glc,1,2,2,1,46,B,SPh,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,1,0,100.0
+492,375,37,Glc (1-6) GlcNAc,1,1,2,1,66,B,imidate,OAc,BF3-OEt2,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+493,376,37,Glc (16) GlcNAc,1,1,2,1,61,B,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+494,377,42,Glc (1 → 6) GlcNAc,3,1,1,1.5,90,B,SePh,OBz,"NIS,TfOH","DCE,Et2O",0,pyranose,O,"['C(CCl)Cl ', 'CCOCC']","[0, -1, 1, -1, 1]",[*][Se]C1=CC=CC=C1,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+498,404,131,GlcNAc (1-2) Gal,1,1,1,1.3,100,B,imidate,NHTroc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+499,405,67,GlcNAc (12) Man,1,1,1,5.6,54,B,bromide,NPhth,"AgOTf,collidine",MeCN,-30,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+500,406,92,GlcNAc (1 →→ 2) Man,3,1,1,3.5,71,B,bromide,NPhth,"AgOTf,lutidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=NC(=CC=C1)C,1,0,100.0
+501,409,175,GlcNAc (1 → 2) Man,2,2,1,1,91,B,bromide,NPhth,"AgOTf,collidine",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+502,411,161,GlcNAc (1 → 2) Man [ 6F ],1,1,1,1.5,98,B,bromide,NPhth,"AgOTf,collidine",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+503,412,111,GlcNAc (1-3) fUC,1,1,1,1.1,71,B,B-OAc,NHTroc,FeCl3,DCM,20,pyranose,O,['CC(Cl)Cl'],"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,Cl[Fe](Cl)Cl,1,0,100.0
+504,415,15,GlcNAc (1 → 3) Gal,2,1,2,2.2,38,B,bromide,NPhth,"AgOTf,TMU",DCM,-70,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CN(C)C(=O)N(C)C,1,0,100.0
+505,416,126,GlcNAc (1 → 3) Gal,2,1.3,3,1,42->58,B,fluoride,NPhth,"CpHfCl2,AgOTf",DCE,-40,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4].C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+506,417,166,GlcNAc (1 → 3) Gal,2,(NR),2,(NR),87,B,fluoride,NPhth,"CpHfCl2,AgOTf",DCM,-23,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4].C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+507,420,80,GlcNAc (1 → 3) Gal,3,1,3,1.06,80,B,imidate,N3,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+508,421,80,GlcNAc (1-3) Gal,2,2,6,1,80,B,imidate,N3,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+509,424,100,GlcNAc (1 → 3) Gal,1,1,1,1.1,84,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+510,425,126,GlcNAc (1-3) Gal,2,2,3,1,42,B,imidate,NPhth,TMSOTf,MeCN,-38,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+511,427,132,GlcNAc (1-3) Gal,2,(NR),3,1,71,B,imidate,N3,BF3-OEt2,"DCM,n-hexane",-10,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+512,428,132,GlcNAc (1 → 3) Gal,2,(NR),4,(NR),69,B,imidate,N3,BF3-OEt2,"DCM,n-hexane",-10,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+513,429,132,GlcNAc (1 → 3) Gal,5,(NR),3,(NR),64,B,imidate,N3,BF3-OEt2,"DCM,n-hexane",-10,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+514,430,132,GlcNAc (1 → 3) Gal,5,(NR),3,(NR),63,B,imidate,N3,BF3-OEt2,"DCM,n-hexane",-10,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+515,431,138,GlcNAc (1 → 3) Gal,1,1.2,1,1,59,B,imidate,NPhth,BF3-OEt2,DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+516,436,57,GlcNAc (13) Gal,1,1,1,1.5,77,B,SMe,NPhth,"PhSeNPhth,TMSOTf",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+517,439,100,GlcNAc (1→ 3) GlcNAc,1,1,1,1.15,87,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+518,441,111,GlcNAc (1 → 3) rHA,1,1,I,1.1,66,B,imidate,NHTroc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+519,442,111,GlcNAc (13) rHA,1,1,2,1.2,40,B,imidate,NHTroc,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+520,443,111,GlcNAc (13) rHA,1,1,2,1.6,49,B,imidate,NHTroc,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+521,444,21,GlcNAc (1-4) pseudosugar,1,1,2,1.5,60,B,SPh,NHAc,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*[NH]C([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+522,446,144,GlcNAc (1 → 4) Gal,2,NR,1,(NR),55,B,B-OAc,NHAc,TMSOTf,DCE,48.5,pyranose,O,['C(CCl)Cl '],"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+523,447,46,GlcNAc (1-4) Gal,2,1,1,1.7,65,B,SMe,NPhth,"NIS,TfOH",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+524,449,87,GlcNAc (1-4) Glc,2,1,1,2.5,88,B,imidate,NPhth,BF3-OEt2,DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+525,451,100,GlcNAc (1 → 4) Glc,1,1,1,1.1,72,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+526,453,158,GlcNAc (1-4) Glc,1,1,1,1.5,90,B,imidate,NPhth,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+527,455,168,GlcNAc (1 → 4) Glc,1,1.2,1,1,81,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+528,456,168,GlcNAc (1 → 4) Glc,1,1.2,1,1,82,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+529,458,168,GlcNAc (1-4) Glc,1,1.2,1,1,82,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+530,460,100,GlcNAc (1-4) GlcA,1,1,1,1.15,89,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+531,461,108,GlcNAc (1-4) GlcNAc,1,1,1,2,93,B,bromide,NPhth,AgOTf,DCM,-45,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+532,462,17,GlcNAc (1-4) GlcNAc,1,1,1,1.1,58,B,chloride,NPhth,AgOTf,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+533,463,17,GlcNAc (1-4) GlcNAc,2,1,2,1.1,50,B,chloride,NPhth,AgOTf,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+534,465,1,GlcNAc (1-4) GlcNAc,3,1,1,3,79,B,fluoride,NPhth,"Cp2HfCl2,AgOTf",DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4].C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+535,467,128,GlcNAc (1-4) GlcNAc,1,1,1,1.5,86,B,fluoride,NPhth,CpHf(OTf)2,DCE,-23,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Hf+4],1,0,100.0
+536,468,128,GlcNAc (1-4) GlcNAc,2,1,2,1.5,99,B,fluoride,NPhth,CpHf(OTf)2,DCE,-23,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Hf+4],1,0,100.0
+537,469,128,GlcNAc (1-4) GlcNAc,4,(NR),1,(NR),80,B,fluoride,NPhth,CpHf(OTf)2,DCE,-23,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Hf+4],1,0,100.0
+538,471,140,GlcNAc (1-4) GlcNAc,1,1,I,1,81,B,fluoride,NPhth,"AgClO4,CpHfCl2",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,[O-]Cl(=O)(=O)=O.[Ag+].C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4],1,0,100.0
+539,473,1,GlcNAc (1-4) GlcNAc,1,1,2,1,69,B,imidate,NPhth,BF3-OEt2,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+540,475,17,GlcNAc (1 → 4) GlcNAc,1,1,1,1.2,76,B,imidate,NPhth,BF3-OEt2,DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+541,476,17,GlcNAc (1 → 4) GlcNAc,2,1,2,1.1,72,B,imidate,NPhth,BF3-OEt2,DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+542,479,55,GlcNAc (1-4) GlcNAc,1,2,2,1,85,B,imidate,N3,BF3-OEt2,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+543,480,55,GlcNAc (1-4) GlcNAc,1,2,3,1,91,B,imidate,N3,BF3-OEt2,toluene,-20,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+544,481,100,GlcNAc (1 → 4) GlcNAc,1,1,1,1.1,81,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+545,483,100,GlcNAc (1-4) GlcNAc,1,1,I,1.15,80,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+546,484,100,GlcNAc (1-4) GlcNAc,1,1,1,1.1,42,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+547,486,100,GlcNAc (1-4) GlcNAc,1,1,1,1.15,75,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+548,489,140,GlcNAc (1-4) GlcNAc,1,1,1,1,90,B,SPh,NPhth,"NIS,AgOTf",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+549,492,140,GlcNAc (1 →→ 4) GlcNAc,4,1,3,1,67,B,SPh,NPhth,"NIS,AgOTf",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+550,493,184,GlcNAc (1 →→ 4) GlcNAc,1,2.4,3,1,52,B,SEt,NPhth,"NIS,TfOH","DCE,Et2O,toluene",20,pyranose,O,"['C(CCl)Cl ', 'CCOCC', 'Cc1ccccc1']","[0, -1, 1, -1, 1]",[*]SCC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+551,495,81,GlcNAc (16) Gal,1,(NR),1,(NR),60,B,SePh,N3,PhSeOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",[*][Se]C1=CC=CC=C1,*N=[N+]=[N-],C1=CC=C(C=C1)[Se]OS(=O)(=O)C(F)(F)F,1,0,100.0
+552,496,168,GlcNAc (1 →→ 6) Gal,1,1.2,1,1,95,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+553,497,168,GlcNAc (1 → 6) Gal,1,1.2,1,1,96,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+554,498,168,GlcNAc (1 →→ 6) Gal,1,1.2,1,1,93,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+555,501,166,GlcNAc (1 →→ 6) GalNAc,1,(NR),4,(NR),79,B,fluoride,NPhth,"CpHfCl2,AgOTf",DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4].C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+556,502,166,GlcNAc (1 →→ 6) GalNAc,1,(NR),4,(NR),50,B,fluoride,NPhth,"AgOTf,SnCl2",DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cl[Sn]Cl,1,0,100.0
+557,503,145,GlcNAc (16) GalNAc,1,1,2,1.3,29,B,imidate,NPhth,BF3-OEt2,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+558,504,145,GlcNAc (1-6) GalNAc,3,1,2,1.1,50,B,imidate,NPhth,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+559,505,124,GlcNAc (1 → 6) GalNAc,1,1,2,1,70,B,SPh,NPhth,"NIS,TfOH",DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+560,506,168,GlcNAc (1 → 6) Glc,1,1.2,1,1,95,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+561,507,168,GlcNAc (1 → 6) Glc,1,1.2,1,1,96,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+562,508,168,GlcNAc (1 → 6) Glc,1,1.2,1,1,95,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+563,512,76,GlcNAc (1-6) GlcNAc,1,1,1,1,50,B,B-OAc,NHAc,FeCl3,DCM,20,pyranose,O,['CC(Cl)Cl'],"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C([CH3])=O,Cl[Fe](Cl)Cl,1,0,100.0
+564,515,30,GlcNAc (16) GlcNAc,1,1.05,1,1,45,B,dibenzylphosphite,NPhth,TMSOTf,MeCN,-43,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+565,516,30,GlcNAc (16) GlcNAc,1,1,1,1,63,B,dibenzylphosphite,NHTroc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+566,517,30,GlcNAc (1 → 6) GlcNAc,1,1,1,1,32,B,dibenzylphosphite,NHTroc,TMSOTf,MeCN,-43,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+567,519,78,GlcNAc (1 → Gly) -Man,1,1.2,1,1,73,B,bromide,NPhth,"AgOTf,collidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+568,524,81,Glc [ 6d ] (1 + 2) Glc [ 6d ],1,1,1,1.06,90,B,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+569,538,84,iDOA (13) Gal,2,(NR),2,(NR),90,B,SEt,OBz,"NIS,TfOH",toluene,-15,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, -1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+572,617,59,Man (1-6) Man,5,1,2,1.2,52,B,imidate,OSugar,BF3-OEt2,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC1C(O)C(O)C(O)C(O)O1,CCO(CC).[B-](F)(F)F,1,0,100.0
+573,642,30,Neu5 Ac (2-3) Gal,2,3,1,1,48,B,dibenzylphosphite,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+574,673,30,Neu5Ac (2-6) Glc,1,3,1,1,45,B,dibenzylphosphite,Br,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, 0, -1, 1, -1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*Br,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+575,675,150,Neu5Ac (28) Neu5 Ac,1,(NR),1,(NR),68,B,OP(OEt)2,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",O=P(OCC)(O[*])OCC,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+576,677,150,Neu5 Ac (2 → 8) Neu5 Ac,1,(NR),1,(NR),54,B,OP(OEt)2,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",O=P(OCC)(O[*])OCC,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+577,721,137,Xyl (1-2) Man,2,1,1,1.5,71,B,bromide,OBz,AgOTf,,,pyranose,O,,"[0, -1, 1, -1, 0]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+578,722,70,Xyl (1-2) Man,1,1,1,1.5,75,B,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+579,723,70,Xyl (1-2) Man,1,1,1,1.3,89,B,imidate,OAc,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+580,724,148,Xyl (14) Xyl,1,1,1,1.5,76,B,imidate,OAc,BF3-OEt2,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+581,726,148,Xyl (1-4) Xyl,1,1,1,1.9,76,B,imidate,OAc,BF3-OEt2,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+582,727,148,Xyl (1 → 4) Xyl,1,1,1,1.7,76,B,imidate,OAc,BF3-OEt2,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+583,728,149,Xyl (16) Glc,2,1,1,1.2,94,B,bromide,OBz,Hg(CN)2,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 0]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(#N)[Hg]C#N ,1,0,100.0
+584,733,104,"Xyl [ 3NH2,4d) (1-4) gUL(3NH₂)",1,1,1,1.2,90,B,SPh,OPiv,"NIS,TfOH",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",[*][S]C1=CC=CC=C1,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+585,228,151,Glc (1 → 3) Glc,1,1.2,1,1,52,B,sulfonamide,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",[O-]S(=O)(O[*])=O.C[NH+](C)C,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,0,100.0
+586,33,141,fUC (1–2) rHA,1,(NR),2,(NR),62,B,SEt,OBn,"NIS,TfOH",,,pyranose,O,,"[0, 1, -1, -1, -1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+587,247,183,"Glc (1-3,6) Glc 1",1,1,1,2.6,81,B,SEt,OBz,"NIS,AgOTf",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+588,248,183,"Glc (1-3,6) Glc 2",2,1,1,2.6,B.B,B,SEt,OBz,"NIS,AgOTf",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SCC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+589,399,30,GlcA (1-3) GlcNAc,1,1,1,1,18,B,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+599,5,149,Ara (1-6) Glc,2,1,1,1.2,85,B,bromide,OBz,Hg(CN)2,toluene,,pyranose,O,['Cc1ccccc1'],"[0, 1, -1, -1, 0]",*Br,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C(#N)[Hg]C#N ,1,0,100.0
+600,70,106,Gal (1-2 / 3) Gal,1,1,1,1.3,28,B,imidate,OBn,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,0,100.0
+601,71,178,Gal (13) Deoxy Nojira,1,1,1,2,100,B,SMe,OBz,DMTST,Benzene,,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+602,74,106,Gal (1-3) Gal,1,1,1,1.2,41,B,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,0,100.0
+603,84,51,Gal (1-3) GalNAc,1,1,1,1.04,52,B,imidate,OAc,BF3-OEt2,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+604,85,46,Gal (13) GalNAc,3,1,1,1.8,91,B,SMe,OBz,"NIS,TfOH",MeCN,-30,pyranose,O,['CC#N'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+605,86,102,Gal (1-3) GalNAc,5,(NR),3,(NR),53,B,SMe,OBz,DMTST,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+606,87,162,Gal (1-3) GalNAc,5,1,1,1.2,78,B,SMe,OBz,DMTST,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+607,88,162,Gal (1-3) GalNAc,5,1,2,1.5,87,B,SMe,OBz,DMTST,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+608,109,179,Gal (1-3) rHA,2,1,2,1.3,67,B,SEt,OBn,IDCP,"Et2O,DCE",,pyranose,O,"['CCOCC', 'C(CCl)Cl ']","[0, -1, 1, 1, 1]",[*]SCC,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CC1=C(C(=NC=C1)C)C.CC1=C(C(=NC=C1)C)C.[O-]Cl(=O)(=O)=O.[IH2+],1,0,100.0
+609,112,178,Gal (1-4) Deoxy Nojira,2,1,1,2,70,B,SMe,OBz,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+610,113,178,Gal (1-4) Deoxy Nojira,2,1,2,1.5,61,B,SMe,OBz,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+611,120,133,Gal (1-4) GlcNAc,1,1,1,2.3,97,B,bromide,OAc,Hg(CN)2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N ,1,0,100.0
+612,121,133,Gal (1-4) GlcNAc,1,1,1,1.6,67,B,bromide,OAc,HgBr2,"nitromethane,toluene",20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,Br[Hg]Br,1,0,100.0
+613,122,133,Gal (14) GlcNAc,1,1,1,1.6,81,B,bromide,OAc,AgOTf,"nitromethane,toluene",-30,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+614,123,133,Gal (14) GlcNAc,1,1,1,1.6,61,B,bromide,OAc,AgOTf,"nitromethane,toluene",-20,pyranose,O,"['C[N+](=O)[O-]  ', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*Br,*OC([CH3])=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+615,126,139,Gal (1-4) GlcNAc,1,1.4,1,1,52,B,fluoride,NPhth,"AgOTf,SnCl2","DCM,toluene",-15,pyranose,O,"['CC(Cl)Cl', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cl[Sn]Cl,1,0,100.0
+616,127,139,Gal (1-4) GlcNAc,1,1.4,1,1,47,B,fluoride,NPhth,"AgOTf,SnCl2","DCM,toluene",-15,pyranose,O,"['CC(Cl)Cl', 'Cc1ccccc1']","[0, -1, 1, 1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].Cl[Sn]Cl,1,0,100.0
+617,130,80,Gal (1-4) GlcNAc,2,1,1,2,71,B,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+618,134,80,Gal (14) GlcNAc,3,1,2,1.7,44,B,SMe,OBz,DMTST,,,pyranose,O,,"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+619,135,80,Gal (1-4) GlcNAc,3,1,2,1.7,38,B,SMe,OBz,DMTST,,,pyranose,O,,"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+620,136,97,Gal (1-4) GlcNAc,3,1,2,1,83,B,SMe,OBz,DMTST,DCM,8,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+621,137,97,Gal (1-4) GlcNAc,4,1,2,2.4,46,B,SMe,OBz,DMTST,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CS[S+](C)C.C(F)(F)(F)S(=O)(=O)[O-]  ,1,0,100.0
+623,154,82,Gal (16) Glc,1,1,1,1.1,63,B,bromide,OCAMB,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,[*]OC(C1=C(COC(CCl)=O)C=CC=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+624,155,120,Gal (1-6) Glc,1,1,2,1.2,76,B,imidate,OAc,BF3-OEt2,DCM,-10,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+625,156,30,Gal (1-6) Glc,1,1,1,1,26,B,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+626,157,19,Gal (1-6) Glc,1,1,1,2,64,B,sulfoxide,OBz,"TMSOTf,TEP",DCM,-60,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.O(P(OCC)OCC)CC,1,0,100.0
+627,158,19,Gal (1-6) Glc,1,1,1,2,84,B,sulfoxide,OBz,"TMSOTf,TEP",DCM,-60,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.O(P(OCC)OCC)CC,1,0,100.0
+628,159,19,Gal (16) Glc,1,1,1,2,38,B,sulfoxide,OBz,"TMSOTf,TEP",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.O(P(OCC)OCC)CC,1,0,100.0
+629,175,125,GalNAc (1-4) Gal,3,1,1,2,20,B,bromide,NPhth,"HgBr2,Hg(CN)2",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, 1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,Br[Hg]Br.C(#N)[Hg]C#N ,1,0,100.0
+630,176,125,GalNAc (1 → 4) Gal,3,1,1,2,5,B,bromide,NPhth,Sn(OTf)2,,,pyranose,O,,"[0, -1, 1, 1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+631,186,168,GalNAc (1 → 4) Glc,1,1.2,1,1,90,B,B-OAc,NHTroc,"SnCl4,AgOTf",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,Cl[Sn](Cl)(Cl)Cl.C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+632,188,168,GalNAc (1-6) Gal,1,1.2,1,1,94,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+633,189,168,GalNAc (1 → 6) Gal,1,1.2,1,1,92,B,B-OAc,NHTroc,"Yb(OTf)3,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3].C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+634,190,168,GalNAc (1 → 6) Gal,1,1.2,1,1,94,B,B-OAc,NHTroc,Sn(OTf)2,,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F.,1,0,100.0
+635,192,168,GalNAc (1 → 6) Glc,1,1.2,1,1,98,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, 1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+636,225,186,Glc (1-3) Glc,1,(NR),1,(NR),75,B,bromide,OMBz,AgOTf,toluene,,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, 1]",*Br,[*]OC(C1=CC=C(C)C=C1)=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+637,230,185,Glc (13) Glc,1,NR,2,1,79,B,SPh,OAc,"NIS,TfOH",,,pyranose,O,,"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+638,232,87,Glc (13) GlcNAc,1,1,1,1.15,81,B,imidate,OTol,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,CC1=CC=C(O[*])C=C1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+639,234,87,Glc (1 → 3) GlcNAc,3,1,1,5,87,B,imidate,OTol,TMSOTf,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,CC1=CC=C(O[*])C=C1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+640,242,71,Glc (13) rHA,1,1,1,1.2,49,B,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+641,255,146,Glc (1-4) Glc,1,1,2,1.2,73,B,imidate,OBz,TMSOTf,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+642,258,155,Glc (1 4) Glc,},1,1,2,*,B,vinyl ether iso,OPiv,"NIS,TfOH",MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC(C)=C,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+643,273,57,Glc (1-4) Glc,1,1,1,1.3,100,B,SMe,OBz,"PhSeNPhth,TMSOTf",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,O=C(C1=C2C=CC=C1)N(C2=O)[Se]C3=CC=CC=C3.C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+644,274,185,Glc (1-4) Glc,1,(NR),2,1,44,B,SPh,OAc,"NIS,TfOH",,,pyranose,O,,"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+645,285,86,Glc (1-4) Glc [ 6d ],1,(NR),2,(NR),14,B,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+646,289,38,Glc (16) Gal,1,1,1,1.1,93,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+647,290,38,Glc (1 → 6) Gal,1,1,1,1.1,20,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+648,296,155,Glc (1 → 6) Gal,1,1,1,2,70,B,vinyl ether iso,OPiv,"NIS,TfOH",MeCN,,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC(C)=C,[*]OC(C(C)(C)C)=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+649,298,172,Glc (1-6) Gal,1,1,1,1,75,B,tetrazol,OBn,BF3-OEt2,MeCN,-20,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,0,100.0
+650,302,172,Glc (16) Gal,1,1,1,1,80,B,tetrazol,OBn,TMSOTf,MeCN,-20,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+651,314,30,Glc (1-6) Gal,1,1.5,2,1,40,B,dibenzylphosphite,OAc,TMSOTf,DCM,-43,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+652,324,38,Glc (1-6) Glc,1,1,1,1,84,B,fluoride,OBz,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,CCO(CC).[B-](F)(F)F,1,0,100.0
+653,325,38,Glc (1-6) Glc,1,1,1,1,71,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+654,338,38,Glc (1 → 6) Glc,1,1,2,1.1,74,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+655,346,18,Glc (16) Glc,1,(NR),1,(NR),82,B,vinyl ether,OAc,TMSOTf,MeCN,0,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]O/C(C)=C/C,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+656,347,115,Glc (1 → 6) Glc,1,1.3,2,1,29,B,n-pentenyl,OAc,"NIS,TESOTf",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OCCCC=C,*OC([CH3])=O,C1CC(=O)N(C1=O)I .CC[Si](CC)(CC)OS(=O)(=O)C(F)(F)F,1,0,100.0
+657,352,172,Glc (1-6) Glc,1,1,1,1,70,B,tetrazol,OBn,TMSOTf,MeCN,-20,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OC1=NN=NN1,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+658,353,30,Glc (16) Glc,1,1,1,1,25,B,dibenzylphosphite,OAc,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+659,355,30,Glc (1-6) Glc,1,1,1,1,66,B,dibenzylphosphite,OBn,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+660,360,19,Glc (16) Glc,1,1,1,2,46,B,sulfoxide,OBz,TMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+661,361,19,Glc (1 → 6) Glc,1,1,1,2,39,B,sulfoxide,OBz,"TMSOTf,TEP",DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]S(C1=CC=CC=C1)=O,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C[Si](C)(C)OS(=O)(=O)C(F)(F)F.O(P(OCC)OCC)CC,1,0,100.0
+662,369,110,Glc (16) Glc,5,1,1,2,86,B,SMe,OBz,"NIS,TfOH",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+663,371,185,Glc (1-6) Glc,1,(NR),2,1,84,B,SPh,OAc,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+664,372,185,Glc (1-6) Glç,1,1,2,1.2,62,B,SPh,OAc,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+665,373,185,Glc (16) Glc,1,1,2,1,76,B,SPh,OAc,"NIS,TfOH",DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+666,374,38,Glc (146) GlcNAc,1,1,1,1.1,60,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+668,384,89,Glc (1-6) Man,1,1,1,3.2,70,B,bromide,OAc,"Hg(CN)2,HgBr2",Benzene,20,pyranose,O,['C1=CC=CC=C1 '],"[0, -1, 1, -1, 1]",*Br,*OC([CH3])=O,C(#N)[Hg]C#N .Br[Hg]Br,1,0,100.0
+669,385,38,Glc (1-6) Man,1,1,1,1.1,93,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+670,386,38,Glc (16) Man,1,1,1,1.1,85,B,fluoride,OAc,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+671,403,80,GlcNAc (1-2) Gal,6,1.25,6,1,77,B,imidate,N3,TMSOTf,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+672,407,92,GlcNAc (1-2) Man,4,1,1,3,42,B,bromide,NPhth,"AgOTf,lutidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=NC(=CC=C1)C,1,0,100.0
+673,408,161,GlcNAc (1 →→ 2) Man,1,1,1,1.5,80,B,bromide,NPhth,"AgOTf,collidine",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+674,410,175,GlcNAc (1 →→ 2) Man,2,2,1,1,83,B,bromide,NPhth,"AgOTf,collidine",DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+675,418,37,GlcNAc (1 → 3) Gal,2,1.4,4,1,53,B,imidate,NPhth,TMSOTf,DCM,-70,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+676,419,37,GlcNAc (1 → 3) Gal,2,2,4,1,61,B,imidate,NPhth,TMSOTf,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+677,422,80,GlcNAc (1 → 3) Gal,2,2,6,1,74,B,imidate,N3,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+678,423,80,GlcNAc (1-3) Gal,3,1.3,6,1,71,B,imidate,N3,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+679,426,132,GlcNAc (1-3) Gal,2,(NR),3,1,70,B,imidate,N3,BF3-OEt2,"DCM,n-hexane",-10,pyranose,O,"['CC(Cl)Cl', 'CCCCCC']","[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+680,432,138,GlcNAc (1 → 3) Gal,1,1.2,I,1,55,B,imidate,NPhth,BF3-OEt2,DCM,-30,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+681,433,171,GlcNAc (1-3) Gal,2,4,3,1,25,B,imidate,NHAc,BF3-OEt2,DCM,-40,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*[NH]C([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+682,434,79,GlcNAc (1 → 3) Gal,2,1,3,2,32,B,dibenzylphosphite,N3,BF3-OEt2,MeCN,-40,pyranose,O,['CC#N'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+683,437,145,GlcNAc (1-3) GalNAc,1,1,2,1.25,84,B,imidate,NPhth,BF3-OEt2,DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+684,438,94,GlcNAc (1-3) Glc,1,1,1,3.6,58,B,bromide,NPhth,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+685,448,87,GlcNAc (1-4) Glc,2,1,1,2,81,B,imidate,NPhth,BF3-OEt2,DCM,25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+686,450,100,GlcNAc (1 → 4) Glc,1,1,1,1.1,82,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+687,452,158,GlcNAc (1 → 4) Glc,1,1,I,1.5,81,B,imidate,NPhth,BF3-OEt2,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+688,454,168,GlcNAc (1-4) Glc,1,1.2,1,1,82,B,B-OAc,NHTroc,"Sn(OTf)2,HMDS",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)O[Sn]OS(=O)(=O)C(F)(F)F..C[Si](C)(C)N[Si](C)(C)C,1,0,100.0
+689,457,168,GlcNAc (1- → 4) Glc,1,1.2,1,1,90,B,B-OAc,NHTroc,"SnCl4,AgOTf",,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,Cl[Sn](Cl)(Cl)Cl.C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+690,459,94,GlcNAc (1-4) GlcA,1,(NR),1,(NR),94,B,bromide,NPhth,"AgOTf,collidine",DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+691,464,36,GlcNAc (1 → 4) GlcNAc,1,1,1,2,67,B,chloride,NPhth,"AgOTf,collidine",DCM,-15,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+692,466,59,GlcNAc (1-4) GlcNAc,1,(NR),1,(NR),83,B,fluoride,NPhth,BF3-OEt2,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+693,470,140,GlcNAc (1-4) GlcNAc,1,1,1,1,78,B,fluoride,NPhth,"CpHfCl2,AgClO4",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4].[O-]Cl(=O)(=O)=O.[Ag+],1,0,100.0
+694,472,140,GlcNAc (1 →→ 4) GlcNAc,1,2,2,1,72,B,fluoride,NPhth,"AgClO4,CpHfCl2",DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*F,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,[O-]Cl(=O)(=O)=O.[Ag+].C1C=CC=[C-]1.C1C=CC=[C-]1.[Cl-].[Cl-].[Hf+4],1,0,100.0
+695,474,17,GlcNAc (1-4) GlcNAc,1,1,1,1.3,61,B,imidate,N3,BF3-OEt2,DCM,-20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N=[N+]=[N-],CCO(CC).[B-](F)(F)F,1,0,100.0
+696,477,48,GlcNAc (1 → 4) GlcNAc,1,(NR),1,(NR),44,B,imidate,NPhth,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+697,478,48,GlcNAc (1 → 4) GlcNAc,2,(NR),1,(NR),61,B,imidate,NPhth,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+698,482,100,GlcNAc (1 → 4) GlcNAc,1,1,1,1.15,84,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+699,485,100,GlcNAc (1-4) GlcNAc,1,1,1,1.1,71,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+700,487,100,GlcNAc (1 → 4) GlcNAc,1,1,1,1.5,81,B,imidate,NHCOCCI3,TMSOTf,DCE,20,pyranose,O,['C(CCl)Cl '],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]NC(C(Cl)(Cl)Cl)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+701,488,48,GlcNAc (1-4) GlcNAc,1,(NR),I,(NR),65,B,B-OAc,NPhth,TMSOTf,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+702,490,140,GlcNAc (1-4) GlcNAc,1,1.5,1,1,85,B,SPh,NPhth,"NIS,AgOTf",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+703,491,140,GlcNAc (1-4) GlcNAc,1,3,3,1,65,B,SPh,NPhth,"NIS,AgOTf",DCM,-50,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*][S]C1=CC=CC=C1,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0
+704,494,184,GlcNAc (1-4) GlcNAc,1,1.5,3,1,61,B,SEt,NPhth,"NIS,TfOH","DCE,Et2O,toluene",20,pyranose,O,"['C(CCl)Cl ', 'CCOCC', 'Cc1ccccc1']","[0, -1, 1, -1, 1]",[*]SCC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+705,499,168,GlcNAc (1 → 6) Gal,1,1.2,1,1,94,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+706,500,41,GlcNAc (16) Gal,3,1,1,1.7,61,B,SMe,NPhth,"NIS,TfOH",DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,1,0,100.0
+707,509,168,GlcNAc (1 → 6) Glc,1,1.2,1,1,96,B,B-OAc,NHTroc,Yb(OTf)3,,,pyranose,O,,"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C(=O)O[CH2]C(Cl)(Cl)Cl,C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].C(F)(F)(F)S(=O)(=O)[O-].[Yb+3],1,0,100.0
+708,510,173,GlcNAc (16) GlcNAc,1,(NR),1,(NR),83,B,bromide,NPhth,"AgOTf,collidine",,,pyranose,O,,"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+709,513,76,GlcNAc (1 → 6) GlcNAc,1,1,1,2,43,B,B-OAc,NHAc,FeCl3,DCM,20,pyranose,O,['CC(Cl)Cl'],"[1, -1, 1, -1, 1]",*OC([CH3])=O,*[NH]C([CH3])=O,Cl[Fe](Cl)Cl,1,0,100.0
+710,514,30,GlcNAc (1 → 6) GlcNAc,1,1.05,1,1,49,B,dibenzylphosphite,NPhth,TMSOTf,DCM,-78,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",[*]OP(OCC1=CC=CC=C1)OCC2=CC=CC=C2,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+711,518,98,GlcNAc (1 → 6) Man,2,1,1,2.6,61,B,bromide,NPhth,"AgOTf,collidine",DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*Br,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,C(F)(F)(F)S(=O)(=O)[O-].[Ag+].CC1=CC(=NC(=C1)C)C,1,0,100.0
+712,525,81,Glc [ 6d ] (1 → 3) Glc [ 6d ],3,1,1,1.25,85,B,imidate,OAc,TMSOTf,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,1,0,100.0
+713,533,83,iDO (1-3) GalNAc,1,(NR),2,1,86,B,imidate,OPiv,TMSOTf,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC(C(C)(C)C)=O,C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+714,534,83,iDO (1 → 3) GalNAc,3,1,2,1.5,87,B,imidate,OPiv,TBDMSOTf,DCM,-23,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC(C(C)(C)C)=O,CC(C)(C)[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+715,535,83,iDO (1-3) GalNAc,5,1,1,2.5,99,B,imidate,OPiv,TBDMSOTf,DCM,,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, -1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC(C(C)(C)C)=O,CC(C)(C)[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+716,536,176,iDO (1-4) Glc,1,1.07,1,1,60,B,fluoride,OAc,BF3-OEt2,,,pyranose,O,,"[0, -1, 1, -1, -1]",*F,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,-1,0,0.0
+717,537,122,iDO- (1-3) Gal,1,(NR),1,(NR),60,B,SEt,OAc,"NIS,TfOH",,,pyranose,O,,"[0, -1, 1, -1, -1]",[*]SCC,*OC([CH3])=O,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+718,539,84,iDOA (1-3) Gal,4,(NR),2,(NR),89,B,SMe,OBz,"NIS,TfOH",toluene,-15,pyranose,O,['Cc1ccccc1'],"[0, -1, 1, -1, -1]",[*]SC,*OC(=O)C1=[CH][CH]=[CH][CH]=[CH]1,C1CC(=O)N(C1=O)I .O=S(=O)(O)C(F)(F)F,-1,0,0.0
+719,568,59,Man (1-3) Man,3,(NR),2,(NR),62,B,imidate,OSugar,BF3-OEt2,DCM,0,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*OC(=N)C(Cl)(Cl)Cl,[*]OC1C(O)C(O)C(O)C(O)O1,CCO(CC).[B-](F)(F)F,1,0,100.0
+726,593,136,Man (14) rHA,1,1.2,1,1,84,B,bromide,2-Oxo,Ag2CO3,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,*=O,C(=O)([O-])[O-].[Ag+].[Ag+],1,0,100.0
+727,595,136,Man (16) Gal,1,1.2,1,1,85,B,bromide,2-Oxo,Ag2CO3,DCM,20,pyranose,O,['CC(Cl)Cl'],"[0, 1, 1, -1, 1]",*Br,*=O,C(=O)([O-])[O-].[Ag+].[Ag+],1,0,100.0
+729,676,150,Neu5Ac (2 → 8) Neu5Ac,1,(NR),1,(NR),51,B,OP(OEt)2,H,TMSOTf,MeCN,-40,pyranose,O,['CC#N'],"[0, 0, -1, 1, -1]",O=P(OCC)(O[*])OCC,*[H],C[Si](C)(C)OS(=O)(=O)C(F)(F)F,-1,0,0.0
+730,711,25,"Rib [ 2,6d ] (1 + x) hexosea",1,1.1,1,1,38,B,sulfoxide,H,Tf2O,"Et2O,DCM",,pyranose,O,"['CCOCC', 'CC(Cl)Cl']","[0, 0, -1, -1, 0]",[*]S(C1=CC=CC=C1)=O,*[H],C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F,1,0,100.0
+731,719,130,"xYL [ 4,6d ] (1 → 3) GlcNAc",4,1,1,8,90,B,fluoride,OBn,"AgClO4,SnCl2,TMU",DCE,-20,pyranose,O,['C(CCl)Cl '],"[0, 1, -1, 0, 0]",*F,*O[CH2]C1=[CH][CH]=[CH][CH]=[CH]1,[O-]Cl(=O)(=O)=O.[Ag+].Cl[Sn]Cl.CN(C)C(=O)N(C)C,1,0,100.0
+732,725,148,Xyl (1-4) Xyl,1,1,1,1.9,70,B,imidate,OAc,BF3-OEt2,DCM,-25,pyranose,O,['CC(Cl)Cl'],"[0, -1, 1, -1, 0]",*OC(=N)C(Cl)(Cl)Cl,*OC([CH3])=O,CCO(CC).[B-](F)(F)F,1,0,100.0
+733,729,15,XylNAc [ 4d ] (1 + 3) Gal,2,1,1,1,39,B,SMe,NPhth,"MSB,AgOTf","DCM,MeCN",-78,pyranose,O,"['CC(Cl)Cl', 'CC#N']","[0, -1, 1, -1, 0]",[*]SC,*N1C(=O)C2=[CH][CH]=[CH][CH]=C2C1=O,CSBr .C(F)(F)(F)S(=O)(=O)[O-].[Ag+],1,0,100.0

@@ -1,0 +1,18 @@
+How to read the decision tree created by scikit-learn:
+
+1. Identify parameter decribed by the node:
+    Orientation of substituents: Represented by the value in the donor vector i.e. C-2 refers to value describing the configuration of the C-2 substituent in a Mills projection.
+    Leaving group: OHE as smiles i.e. a node with OHE_lg_*Br asks if the donor is a glycosyl bromide.
+    Donor substituents: OHE as smiles i.e. a node with OHE_C3_*OC([CH3])=O asks if the donor has OAc on C-3.
+    Solvent: OHE as cas number i.e. a node with 75-05-8 asks if the solvent is acetonitril.
+    Activator: OHE as a smiles i.e. a node with O=S(=O)(O)O asks if the activator is TfOH.
+    Temperature: Scalar in Celsius.
+
+2. How to read the conditions?
+    All nodes quiries whether a parameter is smaller than or equal to (<=) a scalar and should be interpreted as follows:
+    Orientation of substituents: Refers he value decribed above which can be -1 (negative configuration), 0 (deoxy), or +1 (positive configuration).
+    OHE parameters: The OHE representations are binary thus can take on the values 0 (not present) and 1 (present)
+    Temperature: The temperature is above or below a threshold.
+
+    If the expression in the node is True follow the arrow to left, if False follow the arrow to the right,
+

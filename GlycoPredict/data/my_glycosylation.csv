@@ -1,0 +1,2 @@
+rxnsmiles,temperature_C,solvent_smiles,activator_smiles,donor_type,acceptor_type
+OC[C@H]1O[C@H](OC)[C@H](OCC2=CC=CC=C2)[C@@H](OCC3=CC=CC=C3)[C@@H]1OCC4=CC=CC=C4.[C@H]5(OCC6=CC=CC=C6)[C@H](OCC7=CC=CC=C7)[C@@H](OCC8=CC=CC=C8)[C@@H](SC9=CC=CC=C9)O[C@@H]5COCC%10=CC=CC=C%10>>CO[C@@H]%11[C@H](OCC%12=CC=CC=C%12)[C@@H](OCC%13=CC=CC=C%13)[C@H](OCC%14=CC=CC=C%14)[C@@H](CO[C@@H]%15[C@H](OCC%16=CC=CC=C%16)[C@@H](OCC%17=CC=CC=C%17)[C@H](OCC%18=CC=CC=C%18)[C@@H](COCC%19=CC=CC=C%19)O%15)O%11,25,['CC(Cl)Cl'],C(F)(F)(F)S(=O)(=O)O,pyranose,O

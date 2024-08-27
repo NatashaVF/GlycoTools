@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+GlycoPredict/GlycoPredict.egg-info/PKG-INFO
+GlycoPredict/GlycoPredict.egg-info/SOURCES.txt
+GlycoPredict/GlycoPredict.egg-info/dependency_links.txt
+GlycoPredict/GlycoPredict.egg-info/requires.txt
+GlycoPredict/GlycoPredict.egg-info/top_level.txt

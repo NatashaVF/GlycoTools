@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: GlycoPredict
+Version: 0.0.1
+Summary: 'ML tools for carbohydrate chemistry'
+Author: Natasha Videcrantz Faurschou
+Author-email: natashavidecrantz@gmail.com
+License: MIT
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: jupyterlab; extra == "dev"
+
+# GlycoTools
+Useful tools for incorporating ML in carbohydrate chemistry
