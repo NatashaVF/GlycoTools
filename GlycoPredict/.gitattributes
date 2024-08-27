@@ -1,0 +1,2 @@
+*RF_simple_full.pickle filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
