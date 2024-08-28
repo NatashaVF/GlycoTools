@@ -8,8 +8,9 @@ To install the project, clone the repository and install the dependencies:
 ```bash
 git clone https://github.com/NatashaVF/GlycoTools.git
 cd GlycoTools
-conda activate glycotools
 conda env create -f environment.yml
+conda activate glycotools
 pip install -e .
 
 ## Instruction
+ GlycoPredict --input_path 'data/my_glycosylation.csv' --save_name 'my_glycosylation'
