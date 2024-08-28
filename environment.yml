@@ -7,7 +7,7 @@ dependencies:
 - rdkit=2021.03.5
 - conda-minify=0.1.2
 - numpy=1.26.4
-- pandas=1.0.3
+- pandas=1.5.3
 - pandas-flavor=0.6.0
 - pip>=20.0.2
 - pytorch>=2.4.0

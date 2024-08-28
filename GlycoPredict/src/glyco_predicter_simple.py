@@ -2,8 +2,8 @@ from sklearn.ensemble import RandomForestRegressor
 import pandas as pd
 import pickle
 pd.options.mode.chained_assignment = None
-from GlycoPredict.sugar_scripts import featurize_simplified_dataset
-from GlycoPredict.sugar_scripts import get_anomeric_configuration
+from sugar_scripts import featurize_simplified_dataset
+from sugar_scripts import get_anomeric_configuration
 import numpy as np
 import ast
 import rxn
