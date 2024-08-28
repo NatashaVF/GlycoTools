@@ -3,7 +3,7 @@ import time
 import argparse
 
 ###Run script for using GlycoPredicter in terminal###
-if __name__ == "__main__":
+def main():
     # Initialize the argument parser
     parser = argparse.ArgumentParser(description="Run glyco_predicter with arguments.")
     
@@ -15,6 +15,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     start_time = time.time()
-    glyco_predicter.predict(args.input_path,args.save_name)
+    glyco_predicter.predict(args.input_path, args.save_name)
     end_time = time.time()
     print(f"Program finished in: {end_time - start_time} seconds")
