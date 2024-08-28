@@ -4,8 +4,8 @@ import rdkit
 from rdkit import Chem
 from rdkit.Chem import AllChem
 import ast
-from GlycoPredict.sugar_scripts.determine_sugar_configuration import get_sugar_conf
-from GlycoPredict.helper_scripts.format_strings import format_str, fix_smiles
+from sugar_scripts.determine_sugar_configuration import get_sugar_conf
+from helper_scripts.format_strings import format_str, fix_smiles
 pd.options.mode.chained_assignment = None
 from rdkit import RDLogger
 RDLogger.DisableLog('rdApp.*')

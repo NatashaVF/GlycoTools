@@ -5,14 +5,14 @@ from rdkit import Chem
 from rdkit.Chem import AllChem
 import ast
 from rdkit.Chem import MCS
-from GlycoPredict.sugar_scripts.determine_sugar_configuration import get_sugar_conf
-from GlycoPredict.sugar_scripts.determine_product_configuration import get_product_conf
-from GlycoPredict.sugar_scripts.get_glyc_parts import get_parts
-from GlycoPredict.sugar_scripts.get_substituents import get_substituents
-from GlycoPredict.sugar_scripts.identify_anomeric_carbon import get_anomeric_carbon_map_no
-from GlycoPredict.sugar_scripts.identify_anomeric_carbon import remove_ano_stereo_product
-from GlycoPredict.helper_scripts.format_strings import format_str, fix_smiles, fix_rxns_failing_in_chemprop
-from GlycoPredict.helper_scripts.remove_none_major_anomer import remove_none_major_anomer
+from sugar_scripts.determine_sugar_configuration import get_sugar_conf
+from sugar_scripts.determine_product_configuration import get_product_conf
+from sugar_scripts.get_glyc_parts import get_parts
+from sugar_scripts.get_substituents import get_substituents
+from sugar_scripts.identify_anomeric_carbon import get_anomeric_carbon_map_no
+from sugar_scripts.identify_anomeric_carbon import remove_ano_stereo_product
+from helper_scripts.format_strings import format_str, fix_smiles, fix_rxns_failing_in_chemprop
+from helper_scripts.remove_none_major_anomer import remove_none_major_anomer
 pd.options.mode.chained_assignment = None
 from rdkit import RDLogger
 RDLogger.DisableLog('rdApp.*')
