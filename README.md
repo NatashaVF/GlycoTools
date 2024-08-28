@@ -13,4 +13,5 @@ conda activate glycotools
 pip install -e .
 
 ## Instruction
+cd GlycoPredict
  GlycoPredict --input_path 'data/my_glycosylation.csv' --save_name 'my_glycosylation'
